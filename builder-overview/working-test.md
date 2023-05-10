@@ -41,7 +41,6 @@ Depending on your target user, a builder can be opened from Setup, an app, or a 
 #### For Salesforce App and Console Users
 
 * Launch a builder from a relevant record detail page or app page. For example, Journey Builder can be launched from any Journey record page.
-
 * In Salesforce Console, a builder should open in a new window or browser tab—**not** in a console tab or subtab.
 * A utility bar that overlays the interface can persist over a builder. If the user navigates away from the builder by clicking the utility bar, an alert should warn that unsaved changes may be lost. See [Modal usage](/guidelines/builder/modals) for warning messages.
 * Builder record metadata can be represented in a console tab or sub-tab.

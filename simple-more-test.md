@@ -15,8 +15,6 @@
 
 Declaratively build and visualize applications and business processes.
 
-<figure>![Overview header](/assets/images/guidelines/builder/overview/Overview_Hero.png)</figure>
-
 ## Introduction
 
 A builder is a tool that lets everyone from developers and admins to business users create and customize applications and business processes. Developers and admins use builders such as Lightning App Builder, Experience Builder, Bot Builder, and Flow Builder to create interfaces for business users. Users can also create experiences for teams or customers with tools such as Journey Builder and Engagement Studio.
@@ -54,15 +52,3 @@ Depending on your target user, a builder can be opened from Setup, an app, or a 
 
 *   In Setup, launch the builder in full-screen mode.
 *   Make sure that the builder, its list-view, and any detail pages can be accessed from the builder home page in Setup.
-
-<figure class="site-figure site-figure_no-border">![A builder home page in Setup; blue brand button opens the builder](/assets/images/guidelines/builder/overview/Builder-Home.png)
-
-<figcaption class="site-figure__caption">A builder home page in Setup; blue brand button opens the builder</figcaption>
-
-</figure>
-
-<figure class="site-figure site-figure_no-border">![A builder record page in Setup; blue brand button opens the builder](/assets/images/guidelines/builder/overview/Builder-Record.png)
-
-<figcaption class="site-figure__caption">A builder record page in Setup; blue brand button opens the builder</figcaption>
-
-</figure>

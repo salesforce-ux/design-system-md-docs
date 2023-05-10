@@ -38,7 +38,7 @@ Depending on your target user, a builder can be opened from Setup, an app, or a 
 * In Setup, launch the builder in full-screen mode.
 * Make sure that the builder, its list-view, and any detail pages can be accessed from the builder home page in Setup.
 
-#### For Salesforce App and Console Users
+#### For Salesforce App and Console Users !
 
 * Launch a builder from a relevant record detail page or app page. For example, Journey Builder can be launched from any Journey record page.
 * In Salesforce Console, a builder should open in a new window or browser tab—**not** in a console tab or subtab.

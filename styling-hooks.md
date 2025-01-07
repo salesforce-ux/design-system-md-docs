@@ -1,3 +1,5 @@
+## Styling Hooks
+
 **The component styling hooks in this table are compatible with Lightning UI, but they aren’t compatible with Enhanced Lightning UI.**
 
 Use these CSS Custom Properties as hooks to customize this SLDS component with your own style. For more information, [read the technical documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value).

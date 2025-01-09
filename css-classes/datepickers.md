@@ -2,18 +2,18 @@
 
 ## Datepickers
 
-| Selector | Summary | Support | Restrict | Variant |
-|-------|-------|-------|-------|-------|
-| .slds-is-selected-multi | Indicates if the selected days are apart of a date range | undefined | .slds-datepicker td | undefined |
-| .slds-has-multi-row-selection | Class on row to notify that more than one date will be selected with multiple weeks | undefined | .slds-datepicker tr | undefined |
-| .slds-has-multi-selection | Class on row to notify that more than one date will be selected within the week | dev-ready | .slds-datepicker tr | true |
-| .slds-day_adjacent-month | Indicates days that are in previous/next months | undefined | .slds-datepicker__month td | undefined |
-| .slds-datepicker__month | Container of the month table | undefined | .slds-datepicker table | undefined |
-| .slds-datepicker__filter_month | Spaces out month filter | undefined | .slds-datepicker div | undefined |
-| .slds-datepicker__filter | Aligns filter items horizontally | undefined | .slds-datepicker div | undefined |
-| .slds-is-selected | Indicates selected days | undefined | .slds-datepicker td | undefined |
-| .slds-is-today | Indicates today | undefined | .slds-datepicker td | undefined |
-| .slds-day | Style for calendar days | undefined | .slds-datepicker td span | undefined |
-| .slds-disabled-text | undefined | undefined | .slds-datepicker td | undefined |
-| .slds-datepicker | Initiates a datepicker component | dev-ready | div | true |
-| .slds-datepicker | A datepicker is a text input to capture a date. You can select a single date, date range or date and time. | dev-ready | undefined | undefined |
+| Selector | Summary | Support | Restrict | Variant | Modifier |
+|-------|-------|-------|-------|-------|-------|
+| .slds-is-selected-multi | Indicates if the selected days are apart of a date range |   | .slds-datepicker td |   |   |
+| .slds-has-multi-row-selection | Class on row to notify that more than one date will be selected with multiple weeks |   | .slds-datepicker tr |   |   |
+| .slds-has-multi-selection | Class on row to notify that more than one date will be selected within the week | dev-ready | .slds-datepicker tr | true |   |
+| .slds-day_adjacent-month | Indicates days that are in previous/next months |   | .slds-datepicker__month td |   |   |
+| .slds-datepicker__month | Container of the month table |   | .slds-datepicker table |   |   |
+| .slds-datepicker__filter_month | Spaces out month filter |   | .slds-datepicker div |   |   |
+| .slds-datepicker__filter | Aligns filter items horizontally |   | .slds-datepicker div |   |   |
+| .slds-is-selected | Indicates selected days |   | .slds-datepicker td |   |   |
+| .slds-is-today | Indicates today |   | .slds-datepicker td |   |   |
+| .slds-day | Style for calendar days |   | .slds-datepicker td span |   |   |
+| .slds-disabled-text | undefined |   | .slds-datepicker td |   |   |
+| .slds-datepicker | Initiates a datepicker component | dev-ready | div | true |   |
+| .slds-datepicker | A datepicker is a text input to capture a date. You can select a single date, date range or date and time. | dev-ready |   |   |   |

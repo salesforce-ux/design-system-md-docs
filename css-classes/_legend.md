@@ -1,6 +1,6 @@
 ## Overview of CSS Classes
 
-|   |   |
+| __What are these categories?__ |   |
 |---|---|
 | Selector | The CSS class being referred to. |
 | Summary | A description of what the class does. |

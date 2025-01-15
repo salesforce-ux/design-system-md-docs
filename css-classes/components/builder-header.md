@@ -1,7 +1,5 @@
 
 
-## Builder Header
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-builder-toolbar__item-group | Region containing button icon groups of Builder header toolbar |   | .slds-builder-toolbar div |   |   |

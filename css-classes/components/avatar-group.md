@@ -1,7 +1,5 @@
 
 
-## Avatar Group
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-avatar-group_large | Creates a large Avatar Group |   | .slds-avatar-group |   | true |

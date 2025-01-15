@@ -1,7 +1,5 @@
 
 
-## Floats
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-float_right | Pulls element from document flow and floats right. Text and other elements wrap around it. |   | * |   | true |

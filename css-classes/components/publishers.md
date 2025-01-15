@@ -1,7 +1,5 @@
 
 
-## Publishers
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-has-focus | undefined |   | .slds-publisher_comment |   | true |

@@ -1,7 +1,5 @@
 
 
-## Visibility
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-show_* | Shows the element when the window is bigger than the specific size. Sizes can be: x-small, small, medium, large, and * x-large. |   | * |   | true |

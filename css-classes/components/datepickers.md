@@ -1,7 +1,5 @@
 
 
-## Datepickers
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-is-selected-multi | Indicates if the selected days are apart of a date range |   | .slds-datepicker td |   |   |

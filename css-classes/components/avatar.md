@@ -1,7 +1,5 @@
 
 
-## Avatar
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-avatar__initials_inverse | Used for initials that are dark text on light background |   | .slds-avatar__initials |   | true |

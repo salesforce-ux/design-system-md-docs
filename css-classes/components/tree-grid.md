@@ -1,7 +1,5 @@
 
 
-## Tree Grid
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-tree__item-meta | The meta text or secondary text of a tree item |   | .slds-tree__item span |   |   |

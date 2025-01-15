@@ -1,7 +1,5 @@
 
 
-## Padding
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-p-*-around_*, .slds-var-p-*-around_* | undefined |   | * |   | true |

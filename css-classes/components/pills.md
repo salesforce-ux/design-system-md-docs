@@ -1,7 +1,5 @@
 
 
-## Pills
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-listbox [role="listbox"] | A listbox of Pills is a way to display a list of selected options when performing user input | dev-ready | .slds-pill | true |   |

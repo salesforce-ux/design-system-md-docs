@@ -1,7 +1,5 @@
 
 
-## Trial Bar
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-trial-header | Sets styles for trial header bar | dev-ready | div | true |   |

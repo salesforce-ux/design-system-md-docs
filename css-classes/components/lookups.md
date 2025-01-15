@@ -1,7 +1,5 @@
 
 
-## Lookups
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-has-icon_left | undefined |   | .slds-combobox |   |   |

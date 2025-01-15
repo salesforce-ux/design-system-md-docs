@@ -1,7 +1,5 @@
 
 
-## Radio Group
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-radio_faux | undefined |   | .slds-radio__label span |   |   |

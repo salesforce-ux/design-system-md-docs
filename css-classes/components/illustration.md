@@ -1,7 +1,5 @@
 
 
-## Illustration
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-illustration_large | Applies width and height values for large illustrations |   | .slds-illustration |   | true |

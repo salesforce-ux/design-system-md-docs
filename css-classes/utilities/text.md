@@ -1,7 +1,5 @@
 
 
-## Text
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-text-font_monospace | Monospace font family |   | * |   | true |

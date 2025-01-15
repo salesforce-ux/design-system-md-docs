@@ -1,7 +1,5 @@
 
 
-## Menus
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-nubbin_right-bottom-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |

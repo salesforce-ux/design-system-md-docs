@@ -1,7 +1,5 @@
 
 
-## Setup Assistant
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-setup-assistant__step-detail | Add left padding before Setup Assistant step's detail portion |   | .slds-setup-assistant__step div |   |   |

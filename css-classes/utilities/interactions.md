@@ -1,7 +1,5 @@
 
 
-## Interactions
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-text-link_faux | Creates a faux link with hover interactions |   | * |   | true |

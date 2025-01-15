@@ -1,7 +1,5 @@
 
 
-## Global Navigation
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-has-sub-tabs | Modifier that notifies a parent component that it has subtabs inside of it |   | .slds-context-bar__item_tab |   |   |

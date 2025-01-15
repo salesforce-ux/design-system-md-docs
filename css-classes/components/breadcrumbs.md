@@ -1,7 +1,5 @@
 
 
-## Breadcrumbs
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-breadcrumb__item | Item of the breadcrumb list |   | .slds-breadcrumb li |   |   |

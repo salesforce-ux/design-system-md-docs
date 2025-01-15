@@ -1,7 +1,5 @@
 
 
-## Drop Zone
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-drop-zone__actions | Action buttons within drop zone |   | .slds-drop-zone div |   |   |

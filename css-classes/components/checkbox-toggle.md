@@ -1,7 +1,5 @@
 
 
-## Checkbox Toggle
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-checkbox_on | Container for text to show when checkbox is toggle on |   | .slds-checkbox_faux_container span |   |   |

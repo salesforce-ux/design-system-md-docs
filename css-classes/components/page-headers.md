@@ -1,7 +1,5 @@
 
 
-## Page Headers
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-page-header_related-list | Initializes Related List home page header | dev-ready | .slds-page-header | true |   |

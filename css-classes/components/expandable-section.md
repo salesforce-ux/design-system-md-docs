@@ -1,7 +1,5 @@
 
 
-## Expandable Section
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-section-title_divider | Section title divider |   | .slds-section h3 |   |   |

@@ -1,7 +1,5 @@
 
 
-## Counter
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-input_counter | Variant for number input with increment and decrement buttons |   | .slds-input | true |   |

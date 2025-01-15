@@ -1,7 +1,5 @@
 
 
-## Tiles
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-tile_board__icon | Tile board icon |   | .slds-tile_board span |   |   |

@@ -1,7 +1,5 @@
 
 
-## Expression
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-filters__group | Filters Group |   | .slds-filters div |   |   |

@@ -1,7 +1,5 @@
 
 
-## Split View
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-is-open | Toggles open/close state of split view container |   | .slds-split-view_container, .slds-split-view__toggle-button |   | true |

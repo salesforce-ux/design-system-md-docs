@@ -1,7 +1,5 @@
 
 
-## Visual Picker
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-box_link | Checkmark that is visibily toggled when input is checked | dev-ready | .slds-box | true |   |

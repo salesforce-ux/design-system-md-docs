@@ -1,7 +1,5 @@
 
 
-## Badges
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-badge__icon_right | Adds an icon to the right of the badge text |   | .slds-badge__icon |   | true |

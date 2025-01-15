@@ -1,7 +1,5 @@
 
 
-## Cards
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-card-wrapper | Removes the card look from nested cards and pulls them to the boundary of the card wrapper, making the nested cards look like they are inside of one card | dev-ready | div | true |   |

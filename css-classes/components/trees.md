@@ -1,7 +1,5 @@
 
 
-## Trees
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-tree__group-header | Initializes a slds tree group header |   | .slds-tree_container h4 |   |   |

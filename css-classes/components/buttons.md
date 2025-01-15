@@ -1,7 +1,5 @@
 
 
-## Buttons
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-is-selected | When button is pressed and selected |   | .slds-button_stateful |   | true |

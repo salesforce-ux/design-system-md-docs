@@ -1,7 +1,5 @@
 
 
-## Modals
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-backdrop_open | undefined |   | .slds-backdrop |   | true |

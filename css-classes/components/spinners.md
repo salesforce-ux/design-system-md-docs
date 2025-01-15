@@ -1,7 +1,5 @@
 
 
-## Spinners
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-spinner_large | undefined |   | .slds-spinner |   | true |

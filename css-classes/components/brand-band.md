@@ -1,7 +1,5 @@
 
 
-## Brand Band
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-brand-band_user | Uses the user profile banner image as the page background image |   | .slds-brand-band |   | true |

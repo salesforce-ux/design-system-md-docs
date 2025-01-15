@@ -1,7 +1,5 @@
 
 
-## Alert
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-notify__close | Alert close button |   | .slds-notify_alert div |   |   |

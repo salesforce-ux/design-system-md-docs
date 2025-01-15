@@ -1,7 +1,5 @@
 
 
-## Description List
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-dl_horizontal__detail | Marks a description |   | * |   | true |

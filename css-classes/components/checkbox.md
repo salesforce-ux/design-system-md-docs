@@ -1,7 +1,5 @@
 
 
-## Checkbox
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-checkbox_standalone | Checkbox with top-level label and value != label | dev-ready | .slds-checkbox | true |   |

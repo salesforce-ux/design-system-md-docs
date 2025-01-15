@@ -1,7 +1,5 @@
 
 
-## Files
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-file_center-icon | undefined |   | .slds-file |   |   |

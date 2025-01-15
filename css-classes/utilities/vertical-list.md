@@ -1,7 +1,5 @@
 
 
-## Vertical List
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-list_vertical-space-medium | Marks a vertical list with 1rem spacing around |   | * |   | true |

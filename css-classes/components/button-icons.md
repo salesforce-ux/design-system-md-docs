@@ -1,7 +1,5 @@
 
 
-## Button Icons
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-button_icon-container | Creates a button icon inside of a transparent container | dev-ready | button | true |   |

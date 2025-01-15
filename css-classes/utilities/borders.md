@@ -1,7 +1,5 @@
 
 
-## Borders
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-border_top | Adds a top border to an element |   | * |   | true |

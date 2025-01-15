@@ -1,7 +1,5 @@
 
 
-## Themes
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-theme_alert-texture | Adds striped background |   | * |   | true |

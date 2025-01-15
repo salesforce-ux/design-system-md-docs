@@ -1,7 +1,5 @@
 
 
-## Layout
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-has-top-magnet | Assumes element above is connected |   | * |   | true |

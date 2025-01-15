@@ -1,7 +1,5 @@
 
 
-## Summary Detail
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-is-open | undefined |   | .slds-summary-detail |   | true |

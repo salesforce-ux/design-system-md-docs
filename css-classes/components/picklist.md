@@ -1,7 +1,5 @@
 
 
-## Picklist
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-combobox-picklist | undefined |   | div | true |   |

@@ -1,7 +1,5 @@
 
 
-## Checkbox Button Group
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-checkbox_faux | Creates a custom styled checkbox |   | .slds-checkbox_button-group span |   |   |

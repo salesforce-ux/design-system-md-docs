@@ -1,7 +1,5 @@
 
 
-## Slider
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-slider_vertical | Modifier that makes the slider vertical |   | .slds-slider |   | true |

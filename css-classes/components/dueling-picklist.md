@@ -1,7 +1,5 @@
 
 
-## Dueling Picklist
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-is-disabled | Disabled state of a picklist option |   | .slds-dueling-list__options |   |   |

@@ -1,7 +1,5 @@
 
 
-## Tabs
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-tabs-mobile__group | Wrapper for adjacent mobile tab sets | dev-ready | div | true |   |

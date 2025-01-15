@@ -1,7 +1,5 @@
 
 
-## Vertical Tabs
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-vertical-tabs__content | Tab Content Container |   | .slds-vertical-tabs div |   |   |

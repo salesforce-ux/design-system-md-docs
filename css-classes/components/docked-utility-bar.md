@@ -1,7 +1,5 @@
 
 
-## Docked Utility Bar
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-utility-panel__body | undefined |   | .slds-utility-panel div |   |   |

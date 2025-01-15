@@ -1,7 +1,5 @@
 
 
-## Checkbox Button
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-checkbox-button_is-focused | Modifier for the focused state |   | .slds-checkbox-button |   | true |

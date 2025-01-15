@@ -1,7 +1,5 @@
 
 
-## Combobox
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-listbox-toggle | Toggle button to show all of the pill selections |   | .slds-listbox_selection-group > span |   |   |

@@ -1,7 +1,5 @@
 
 
-## Carousel
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-is-active | Active state notifying the tab that its current panel is active |   | .slds-carousel__indicator-action |   |   |

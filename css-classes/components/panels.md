@@ -1,7 +1,5 @@
 
 
-## Panels
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-panel_filters | undefined | dev-ready | .slds-panel | true |   |

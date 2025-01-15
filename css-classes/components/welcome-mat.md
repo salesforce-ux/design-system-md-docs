@@ -1,7 +1,5 @@
 
 
-## Welcome Mat
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-welcome-mat_trailhead | Creates Trailhead Connected Welcome Mat | dev-ready | .slds-welcome-mat | true |   |

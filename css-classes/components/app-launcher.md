@@ -1,7 +1,5 @@
 
 
-## App Launcher
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-app-launcher__tile-body_small | App title, no description |   | .slds-app-launcher__tile-body |   |   |

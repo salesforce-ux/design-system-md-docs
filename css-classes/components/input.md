@@ -1,7 +1,5 @@
 
 
-## Input
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-input_borders | Modifier to allow a [readonly] input to have borders |   | .slds-input |   |   |

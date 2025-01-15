@@ -1,7 +1,5 @@
 
 
-## Chat
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-chat_past | Apply when displaying chat logs that appeared in the past | dev-ready | .slds-chat | true |   |

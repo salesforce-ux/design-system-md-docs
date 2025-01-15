@@ -1,7 +1,5 @@
 
 
-## Form Element
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-form_stacked | Vertical form elements with label stacked on top of control |   | .slds-form |   |   |

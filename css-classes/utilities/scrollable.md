@@ -1,7 +1,5 @@
 
 
-## Scrollable
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-scrollable_x | Forces element to scroll horizontally when content exceeds element's width |   | * |   | true |

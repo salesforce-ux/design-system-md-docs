@@ -1,7 +1,5 @@
 
 
-## Sizing
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-size_full | undefined |   | * |   | true |

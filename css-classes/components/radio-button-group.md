@@ -1,7 +1,5 @@
 
 
-## Radio Button Group
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-radio_button__label | undefined |   | .slds-radio_button label |   |   |

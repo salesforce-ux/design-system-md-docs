@@ -1,7 +1,5 @@
 
 
-## Truncation
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-truncate_container_66 | Truncates text at 66% of its parent container |   | * |   | true |

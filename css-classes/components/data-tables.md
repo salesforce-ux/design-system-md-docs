@@ -1,7 +1,5 @@
 
 
-## Data Tables
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-max-medium-table_stacked-horizontal | Creates stacked rows with horizontal cells | prototype | .slds-table |   | true |

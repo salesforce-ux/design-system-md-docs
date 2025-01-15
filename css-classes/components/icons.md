@@ -1,7 +1,5 @@
 
 
-## Icons
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | [class*='slds-icon-standard-'] | Standard icons | dev-ready | .slds-icon_container, svg, abbr | true |   |

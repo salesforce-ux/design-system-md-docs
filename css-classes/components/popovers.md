@@ -1,7 +1,5 @@
 
 
-## Popovers
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-popover__body_scrollable | Applies scrollable styles for popovers |   | .slds-popover_error .slds-popover__body, .slds-popover_warning .slds-popover__body |   |   |

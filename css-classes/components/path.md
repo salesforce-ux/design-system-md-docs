@@ -1,7 +1,5 @@
 
 
-## Path
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-region_small | This class should be placed on a containing div when the Path container is between 360px and 564px |   | div | true |   |

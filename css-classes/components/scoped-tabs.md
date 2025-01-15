@@ -1,7 +1,5 @@
 
 
-## Scoped Tabs
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-tabs_large | Large sized tabs |   | .slds-tabs_scoped |   | true |

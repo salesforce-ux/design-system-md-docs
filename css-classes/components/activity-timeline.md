@@ -1,7 +1,5 @@
 
 
-## Activity Timeline
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-timeline__details-action-icon | Icon inside of actionable button within an expandable timeline item |   | .slds-timeline__item_expandable svg |   |   |

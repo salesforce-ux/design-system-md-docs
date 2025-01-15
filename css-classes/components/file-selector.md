@@ -1,7 +1,5 @@
 
 
-## File Selector
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-file-selector__text_integrated | undefined |   | .slds-file-selector_integrated span |   |   |

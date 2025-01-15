@@ -1,7 +1,5 @@
 
 
-## Timepicker
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-timepicker | Initializes a timepicker | dev-ready | div | true |   |

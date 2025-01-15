@@ -1,7 +1,5 @@
 
 
-## Rich Text Editor
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-rich-text-area__content | undefined |   | .slds-rich-text-editor div |   |   |

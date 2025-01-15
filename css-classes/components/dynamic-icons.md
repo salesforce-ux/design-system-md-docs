@@ -1,7 +1,5 @@
 
 
-## Dynamic Icons
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-icon-waffle | Element container circles for the waffle icon |   | .slds-icon-waffle_container > span |   |   |

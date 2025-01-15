@@ -1,7 +1,5 @@
 
 
-## Global Header
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-notification-badge | Notification counter badge |   | .slds-global-actions__item span |   |   |

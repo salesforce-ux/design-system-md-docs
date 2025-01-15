@@ -1,7 +1,5 @@
 
 
-## Docked Composer
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-docked-composer-modal | undefined |   | .slds-docked-composer |   |   |

@@ -1,7 +1,5 @@
 
 
-## Progress Indicator
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-progress_success | Creates a green bar for the vertical variant |   | .slds-progress_vertical |   |   |

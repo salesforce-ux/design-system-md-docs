@@ -1,7 +1,5 @@
 
 
-## Scoped Notifications
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-scoped-notification_dark | This renders the dark notification |   | .slds-scoped-notification |   | true |

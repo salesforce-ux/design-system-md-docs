@@ -1,7 +1,5 @@
 
 
-## Button Groups
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-button-group-item | Each item inside of a button group row that needs spacing applied to it |   | .slds-button-group-row li, .slds-button-group-row div |   |   |

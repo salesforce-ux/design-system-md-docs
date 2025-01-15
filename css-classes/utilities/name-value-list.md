@@ -1,7 +1,5 @@
 
 
-## Name Value List
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-item_detail | Label of the name-value pair variant. Layout is modified by its parent class. |   | * |   | true |

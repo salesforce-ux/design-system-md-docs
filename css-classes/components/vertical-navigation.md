@@ -1,7 +1,5 @@
 
 
-## Vertical Navigation
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-nav-vertical__item [type="radio"] | Version of vertical nav that uses radio buttons | dev-ready | .slds-nav-vertical | true |   |

@@ -1,7 +1,5 @@
 
 
-## Select
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-select | Initializes select | dev-ready | select | true |   |

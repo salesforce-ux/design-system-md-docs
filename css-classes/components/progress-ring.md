@@ -1,7 +1,5 @@
 
 
-## Progress Ring
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-progress-ring_active-step | Blue progress ring |   | .slds-progress-ring |   | true |

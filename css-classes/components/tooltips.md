@@ -1,7 +1,5 @@
 
 
-## Tooltips
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-slide-from-left-to-right | Slides tooltip from left to right |   | .slds-popover_tooltip |   | true |

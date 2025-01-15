@@ -1,7 +1,5 @@
 
 
-## Feeds
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-post__footer-meta-list | undefined |   | .slds-post__footer ul |   |   |

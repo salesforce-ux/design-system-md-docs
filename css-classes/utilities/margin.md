@@ -1,7 +1,5 @@
 
 
-## Margin
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-m-*-around_*, .slds-var-m-*-around_* | undefined |   | * |   | true |

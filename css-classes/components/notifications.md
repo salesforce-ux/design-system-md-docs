@@ -1,7 +1,5 @@
 
 
-## Notifications
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-notification__footer | Optional notification footer |   | .slds-notification div |   |   |

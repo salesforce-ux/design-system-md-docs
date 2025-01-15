@@ -1,7 +1,5 @@
 
 
-## Line Clamp
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-line-clamp_large | Sets line clamp for large multi-line truncation |   | * |   | true |

@@ -1,7 +1,5 @@
 
 
-## Color Picker
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-color-picker_swatches-only | Swatches Only UI | dev-ready | .slds-color-picker | true |   |

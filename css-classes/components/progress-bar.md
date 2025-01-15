@@ -1,7 +1,5 @@
 
 
-## Progress Bar
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-progress-bar_vertical | Create a vertical progress bar | dev-ready | .slds-progress-bar | true |   |

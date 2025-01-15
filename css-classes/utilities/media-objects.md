@@ -1,7 +1,5 @@
 
 
-## Media Objects
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-media_responsive | .slds-media__figure and .slds-media__body stack on smaller screens |   | * |   |   |

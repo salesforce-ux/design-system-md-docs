@@ -1,7 +1,5 @@
 
 
-## Position
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-is-visually-empty | Hides element and removes width |   | * |   | true |

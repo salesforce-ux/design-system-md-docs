@@ -1,7 +1,5 @@
 
 
-## Grid
-
 | Selector | Summary | Support | Restrict | Variant | Modifier |
 |-------|-------|-------|-------|-------|-------|
 | .slds-container_right | Horizontally positions containers to the right of the viewport |   | * |   | true |

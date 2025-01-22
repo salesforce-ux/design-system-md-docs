@@ -1,12 +1,67 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-section-title_divider  |
+| Summary | Section title divider |
+| Restrict | .slds-section h3 |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-section-title_divider | Section title divider |   | .slds-section h3 |   |   |
-| .slds-section__content | Element containing the content of an expandable section |   | .slds-section div |   |   |
-| .slds-section__title-action-icon | The icon element adjacent to the title |   | .slds-section__title-action |   |   |
-| .slds-section__title-action | Element containing the action inside of an expandable section title |   | .slds-section__title button |   |   |
-| .slds-section__title | Element containing the title of a section |   | .slds-section h3 |   |   |
-| .slds-is-open | Toggle visibility of section content |   | .slds-section |   | true |
-| .slds-section | Container for a expandable section | dev-ready | article, div | true |   |
-| .slds-section | Toggle visibility of section content | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-section__content  |
+| Summary | Element containing the content of an expandable section |
+| Restrict | .slds-section div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-section__title-action-icon  |
+| Summary | The icon element adjacent to the title |
+| Restrict | .slds-section__title-action |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-section__title-action  |
+| Summary | Element containing the action inside of an expandable section title |
+| Restrict | .slds-section__title button |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-section__title  |
+| Summary | Element containing the title of a section |
+| Restrict | .slds-section h3 |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-open  |
+| Summary | Toggle visibility of section content |
+| Restrict | .slds-section |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-section  |
+| Summary | Container for a expandable section |
+| Support | dev-ready |
+| Restrict | article, div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-section  |
+| Summary | Toggle visibility of section content |
+| Support | dev-ready |
+|  |  |
+

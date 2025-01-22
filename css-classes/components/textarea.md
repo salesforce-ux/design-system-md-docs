@@ -1,6 +1,18 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-textarea  |
+| Summary | Initialize textarea |
+| Support | dev-ready |
+| Restrict | textarea |
+| Variant | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-textarea | Initialize textarea | dev-ready | textarea | true |   |
-| .slds-textarea | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-textarea  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

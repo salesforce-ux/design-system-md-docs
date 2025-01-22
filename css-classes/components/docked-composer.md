@@ -1,96 +1,796 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer-modal  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-docked-composer-modal | undefined |   | .slds-docked-composer |   |   |
-| .slds-docked-composer_overflow__button | undefined |   | .slds-docked-composer |   |   |
-| .slds-nubbin_right-bottom-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-bottom-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right-top-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-top-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-right-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-right-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-left-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-left-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right-bottom | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right-top | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-bottom | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-top | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-right | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-left | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-right | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-left | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-dropdown_length-with-icon-10 | Forces overflow scrolling after 10 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-with-icon-7 | Forces overflow scrolling after 7 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-with-icon-5 | Forces overflow scrolling after 5 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-10 | Forces overflow scrolling after 10 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-7 | Forces overflow scrolling after 7 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-5 | Forces overflow scrolling after 5 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_fluid | Sets width equal to input |   | .slds-dropdown |   | true |
-| .slds-dropdown_large | Sets min-width of 25rem/400px |   | .slds-dropdown |   | true |
-| .slds-dropdown_medium | Sets min-width of 20rem/320px |   | .slds-dropdown |   | true |
-| .slds-dropdown_small | Sets min-width of 15rem/240px |   | .slds-dropdown |   | true |
-| .slds-dropdown_x-small | Sets min-width of 12rem/192px |   | .slds-dropdown |   | true |
-| .slds-dropdown_xx-small | Sets min-width of 6rem/96px |   | .slds-dropdown |   | true |
-| .slds-dropdown_bottom | Positions dropdown to above target |   | .slds-dropdown |   | true |
-| .slds-dropdown_right | Positions dropdown to right side of target |   | .slds-dropdown |   | true |
-| .slds-dropdown_left | Positions dropdown to left side of target |   | .slds-dropdown |   | true |
-| .slds-indicator_unread | Unread notification icon |   | .slds-has-notification span |   |   |
-| .slds-has-notification | Creates styles for a Tab Item when its tab has new activity in |   | .slds-tabs_default__item, .slds-dropdown__item |   |   |
-| .slds-dropdown_submenu-bottom | Open submenu along the bottom of the parent menu item |   | .slds-dropdown_submenu |   |   |
-| .slds-dropdown_submenu-right | Open submenu to the right of the parent menu item |   | .slds-dropdown_submenu |   | true |
-| .slds-dropdown_submenu-left | Open submenu to the left of the parent menu item |   | .slds-dropdown_submenu |   | true |
-| .slds-dropdown_submenu | true |   | .slds-has-submenu div |   |   |
-| .slds-has-submenu | true |   | .slds-dropdown__item |   |   |
-| .slds-is-selected | If menu contains menuitemcheckbox then this handles the selected states |   | .slds-dropdown__item |   | true |
-| .slds-icon_selected | If menu contains menuitemcheckbox then this toggles the selected icon when it is selected |   | .slds-dropdown__item svg |   |   |
-| .slds-has-warning | Places a menu item into a warning state |   | .slds-dropdown__item > a |   | true |
-| .slds-has-success | Places a menu item into a success state |   | .slds-dropdown__item > a |   | true |
-| .slds-has-error | Places a menu item into an errored state |   | .slds-dropdown__item > a |   | true |
-| .slds-is-unsaved | Dirty state for a nav item |   | .slds-context-bar__item, .slds-dropdown__item |   |   |
-| .slds-dropdown__item | Initializes dropdown item |   | .slds-dropdown li |   |   |
-| .slds-dropdown__header | Adds padding to area above dropdown menu list |   | .slds-dropdown li |   |   |
-| .slds-dropdown_inverse | Theme |   | .slds-dropdown |   | true |
-| .slds-dropdown_length-with-icon-10 | Forces overflow scrolling after 10 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-with-icon-7 | Forces overflow scrolling after 7 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-with-icon-5 | Forces overflow scrolling after 5 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-10 | Forces overflow scrolling after 10 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-7 | Forces overflow scrolling after 7 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-5 | Forces overflow scrolling after 5 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-listbox_vertical | undefined |   | .slds-listbox |   | true |
-| .slds-listbox__icon-selected | undefined |   | .slds-listbox__item svg |   |   |
-| .slds-listbox__option-meta | undefined |   | .slds-listbox__option span |   |   |
-| .slds-listbox__option-text_entity | undefined |   | .slds-listbox__option span |   |   |
-| .slds-is-selected | undefined |   | .slds-listbox__option |   | true |
-| .slds-listbox__option_has-meta | undefined |   | .slds-listbox__option |   |   |
-| .slds-listbox__option_plain | undefined |   | .slds-listbox__option |   |   |
-| .slds-listbox__option_entity | undefined |   | .slds-listbox__option |   |   |
-| .slds-has-focus | undefined |   | .slds-listbox__option |   | true |
-| .slds-listbox__option-icon | Container for listbox option icon |   | .slds-listbox__option span |   |   |
-| .slds-listbox__option-header | Header for choosable option within listbox |   | .slds-listbox__option h3 |   |   |
-| .slds-listbox__option | undefined |   | .slds-listbox__item > div |   |   |
-| .slds-listbox__item | undefined |   | .slds-listbox > li |   |   |
-| .slds-listbox_horizontal | undefined |   | .slds-listbox |   | true |
-| .slds-listbox_inline | undefined |   | .slds-listbox |   | true |
-| .slds-listbox | undefined | dev-ready | .slds-dropdown ul, .slds-dueling-list__options ul, .slds-pill_container ul, .slds-listbox_selection-group ul, .slds-combobox_container ul, .slds-form-element__control ul, .slds-popover__body ul | true |   |
-| .slds-dropdown | Initializes dropdown |   | .slds-dropdown-trigger div, .slds-dropdown-trigger ul, .slds-docked-composer_overflow div |   |   |
-| .slds-docked-composer_overflow | undefined |   | .slds-docked-composer |   |   |
-| .slds-docked-composer__footer | undefined |   | .slds-docked-composer footer |   |   |
-| .slds-docked-composer__input | undefined |   | .slds-docked-composer textarea |   |   |
-| .slds-docked-composer__toolbar | undefined |   | .slds-docked-composer div |   |   |
-| .slds-docked-composer__lead | undefined |   | .slds-docked-composer div |   |   |
-| .slds-email-composer__recipient | Provides styles for recipient labels inside of email composer |   | .slds-email-composer label |   |   |
-| .slds-email-composer__combobox | Modifier combobox when used inside of email composer |   | .slds-email-composer div |   |   |
-| .slds-email-composer | Initiazes email composer inside of a docked composer |   | .slds-docked-composer__body div |   |   |
-| .slds-docked-composer__body_form | undefined |   | .slds-docked-composer__body |   |   |
-| .slds-docked-composer__body | undefined |   | .slds-docked-composer div |   |   |
-| .slds-docked-composer__header | undefined |   | .slds-docked-composer header |   |   |
-| .slds-is-closed | undefined |   | .slds-docked-composer |   | true |
-| .slds-is-open | undefined |   | .slds-docked-composer |   | true |
-| .slds-has-focus | undefined |   | .slds-docked-composer |   | true |
-| .slds-docked-composer | undefined | dev-ready | section, div | true |   |
-| .slds-docked-composer, .slds-docked_container | Docked Composer is a persistent utility bar that allows a user to continually use the app to complete tasks or gather information while expanding/collapsing a composer window. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer_overflow__button  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-bottom-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-bottom-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-top-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-top-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-right-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-right-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-left-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-left-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-bottom  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-top  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-bottom  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-top  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-right  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-left  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-right  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-left  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-10  |
+| Summary | Forces overflow scrolling after 10 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-7  |
+| Summary | Forces overflow scrolling after 7 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-5  |
+| Summary | Forces overflow scrolling after 5 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-10  |
+| Summary | Forces overflow scrolling after 10 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-7  |
+| Summary | Forces overflow scrolling after 7 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-5  |
+| Summary | Forces overflow scrolling after 5 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_fluid  |
+| Summary | Sets width equal to input |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_large  |
+| Summary | Sets min-width of 25rem/400px |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_medium  |
+| Summary | Sets min-width of 20rem/320px |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_small  |
+| Summary | Sets min-width of 15rem/240px |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_x-small  |
+| Summary | Sets min-width of 12rem/192px |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_xx-small  |
+| Summary | Sets min-width of 6rem/96px |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_bottom  |
+| Summary | Positions dropdown to above target |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_right  |
+| Summary | Positions dropdown to right side of target |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_left  |
+| Summary | Positions dropdown to left side of target |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-indicator_unread  |
+| Summary | Unread notification icon |
+| Restrict | .slds-has-notification span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-notification  |
+| Summary | Creates styles for a Tab Item when its tab has new activity in |
+| Restrict | .slds-tabs_default__item, .slds-dropdown__item |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_submenu-bottom  |
+| Summary | Open submenu along the bottom of the parent menu item |
+| Restrict | .slds-dropdown_submenu |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_submenu-right  |
+| Summary | Open submenu to the right of the parent menu item |
+| Restrict | .slds-dropdown_submenu |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_submenu-left  |
+| Summary | Open submenu to the left of the parent menu item |
+| Restrict | .slds-dropdown_submenu |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_submenu  |
+| Summary | true |
+| Restrict | .slds-has-submenu div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-submenu  |
+| Summary | true |
+| Restrict | .slds-dropdown__item |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-selected  |
+| Summary | If menu contains menuitemcheckbox then this handles the selected states |
+| Restrict | .slds-dropdown__item |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_selected  |
+| Summary | If menu contains menuitemcheckbox then this toggles the selected icon when it is selected |
+| Restrict | .slds-dropdown__item svg |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-warning  |
+| Summary | Places a menu item into a warning state |
+| Restrict | .slds-dropdown__item > a |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-success  |
+| Summary | Places a menu item into a success state |
+| Restrict | .slds-dropdown__item > a |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-error  |
+| Summary | Places a menu item into an errored state |
+| Restrict | .slds-dropdown__item > a |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-unsaved  |
+| Summary | Dirty state for a nav item |
+| Restrict | .slds-context-bar__item, .slds-dropdown__item |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown__item  |
+| Summary | Initializes dropdown item |
+| Restrict | .slds-dropdown li |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown__header  |
+| Summary | Adds padding to area above dropdown menu list |
+| Restrict | .slds-dropdown li |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_inverse  |
+| Summary | Theme |
+| Restrict | .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-10  |
+| Summary | Forces overflow scrolling after 10 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-7  |
+| Summary | Forces overflow scrolling after 7 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-5  |
+| Summary | Forces overflow scrolling after 5 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-10  |
+| Summary | Forces overflow scrolling after 10 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-7  |
+| Summary | Forces overflow scrolling after 7 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-5  |
+| Summary | Forces overflow scrolling after 5 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox_vertical  |
+| Summary | undefined |
+| Restrict | .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__icon-selected  |
+| Summary | undefined |
+| Restrict | .slds-listbox__item svg |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-meta  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-text_entity  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-selected  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option_has-meta  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option_plain  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option_entity  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-focus  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-icon  |
+| Summary | Container for listbox option icon |
+| Restrict | .slds-listbox__option span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-header  |
+| Summary | Header for choosable option within listbox |
+| Restrict | .slds-listbox__option h3 |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option  |
+| Summary | undefined |
+| Restrict | .slds-listbox__item > div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__item  |
+| Summary | undefined |
+| Restrict | .slds-listbox > li |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox_horizontal  |
+| Summary | undefined |
+| Restrict | .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox_inline  |
+| Summary | undefined |
+| Restrict | .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | .slds-dropdown ul, .slds-dueling-list__options ul, .slds-pill_container ul, .slds-listbox_selection-group ul, .slds-combobox_container ul, .slds-form-element__control ul, .slds-popover__body ul |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown  |
+| Summary | Initializes dropdown |
+| Restrict | .slds-dropdown-trigger div, .slds-dropdown-trigger ul, .slds-docked-composer_overflow div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer_overflow  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer__footer  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer footer |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer__input  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer textarea |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer__toolbar  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer__lead  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-email-composer__recipient  |
+| Summary | Provides styles for recipient labels inside of email composer |
+| Restrict | .slds-email-composer label |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-email-composer__combobox  |
+| Summary | Modifier combobox when used inside of email composer |
+| Restrict | .slds-email-composer div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-email-composer  |
+| Summary | Initiazes email composer inside of a docked composer |
+| Restrict | .slds-docked-composer__body div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer__body_form  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer__body |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer__body  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer__header  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer header |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-closed  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-open  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-focus  |
+| Summary | undefined |
+| Restrict | .slds-docked-composer |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | section, div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-composer, .slds-docked_container  |
+| Summary | Docked Composer is a persistent utility bar that allows a user to continually use the app to complete tasks or gather information while expanding/collapsing a composer window. |
+| Support | dev-ready |
+|  |  |
+

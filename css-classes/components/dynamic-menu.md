@@ -1,7 +1,26 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-dynamic-menu__header  |
+| Summary | Headers styles for dynamic menu |
+| Restrict | .slds-dynamic-menu h3 |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-dynamic-menu__header | Headers styles for dynamic menu |   | .slds-dynamic-menu h3 |   |   |
-| .slds-dynamic-menu | undefined | dev-ready | section[role="dialog"] | true |   |
-| .slds-dynamic-menu | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dynamic-menu  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | section[role="dialog"] |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dynamic-menu  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

@@ -1,19 +1,125 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-panel__body  |
+| Summary | undefined |
+| Restrict | .slds-utility-panel div |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-utility-panel__body | undefined |   | .slds-utility-panel div |   |   |
-| .slds-utility-panel__header | undefined |   | .slds-utility-panel div |   |   |
-| .slds-is-open | undefined |   | .slds-utility-panel |   | true |
-| .slds-utility-panel | undefined |   | .slds-utility-bar_container div |   |   |
-| .slds-utility-bar__text | undefined |   | .slds-utility-bar__action > span |   |   |
-| .slds-is-active | undefined |   | .slds-utility-bar__action |   | true |
-| .slds-utility-bar__action | undefined |   | .slds-utility-bar button |   |   |
-| .slds-indicator_unread | Unread notification icon |   | .slds-has-notification span |   |   |
-| .slds-has-notification | undefined |   | .slds-utility-bar__item |   |   |
-| .slds-utility-bar__item_pop-out | Modifier to add pop out element |   | .slds-utility-bar__item |   | true |
-| .slds-utility-bar__item | undefined |   | .slds-utility-bar li |   |   |
-| .slds-indicator_unread | undefined |   | .slds-utility-bar abbr |   |   |
-| .slds-utility-bar | undefined |   | .slds-utility-bar_container ul |   |   |
-| .slds-utility-bar_container | Fixed bar at the bottom of viewport, that contains items | dev-ready | footer | true |   |
-| .slds-utility-bar_container | Docked utility bar is a persistent bar that allows a user to continually use the app to complete tasks while expanding/collapsing utility panels. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-panel__header  |
+| Summary | undefined |
+| Restrict | .slds-utility-panel div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-open  |
+| Summary | undefined |
+| Restrict | .slds-utility-panel |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-panel  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar_container div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-bar__text  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar__action > span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-active  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar__action |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-bar__action  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar button |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-indicator_unread  |
+| Summary | Unread notification icon |
+| Restrict | .slds-has-notification span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-notification  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar__item |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-bar__item_pop-out  |
+| Summary | Modifier to add pop out element |
+| Restrict | .slds-utility-bar__item |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-bar__item  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar li |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-indicator_unread  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar abbr |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-bar  |
+| Summary | undefined |
+| Restrict | .slds-utility-bar_container ul |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-bar_container  |
+| Summary | Fixed bar at the bottom of viewport, that contains items |
+| Support | dev-ready |
+| Restrict | footer |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-utility-bar_container  |
+| Summary | Docked utility bar is a persistent bar that allows a user to continually use the app to complete tasks while expanding/collapsing utility panels. |
+| Support | dev-ready |
+|  |  |
+

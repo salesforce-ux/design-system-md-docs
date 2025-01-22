@@ -1,15 +1,95 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring_active-step  |
+| Summary | Blue progress ring |
+| Restrict | .slds-progress-ring |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-progress-ring_active-step | Blue progress ring |   | .slds-progress-ring |   | true |
-| .slds-progress-ring_large | Larger ring size |   | .slds-progress-ring |   | true |
-| .slds-progress-ring_complete | Complete colors |   | .slds-progress-ring |   | true |
-| .slds-progress-ring_expired | Expired colors |   | .slds-progress-ring |   | true |
-| .slds-progress-ring_warning | Warning colors |   | .slds-progress-ring |   | true |
-| .slds-progress-ring__content | Progress ring content area |   | .slds-progress-ring > div |   |   |
-| .slds-progress-ring__progress-head | undefined |   | .slds-progress-ring__progress div |   |   |
-| .slds-progress-ring__path | undefined |   | .slds-progress-ring__progress path, .slds-progress-ring__progress circle |   |   |
-| .slds-progress-ring__progress | Progress indicator |   | .slds-progress-ring div |   |   |
-| .slds-progress-ring | Progress Ring component | prototype | div | true |   |
-| .slds-progress-ring | undefined | prototype |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring_large  |
+| Summary | Larger ring size |
+| Restrict | .slds-progress-ring |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring_complete  |
+| Summary | Complete colors |
+| Restrict | .slds-progress-ring |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring_expired  |
+| Summary | Expired colors |
+| Restrict | .slds-progress-ring |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring_warning  |
+| Summary | Warning colors |
+| Restrict | .slds-progress-ring |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring__content  |
+| Summary | Progress ring content area |
+| Restrict | .slds-progress-ring > div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring__progress-head  |
+| Summary | undefined |
+| Restrict | .slds-progress-ring__progress div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring__path  |
+| Summary | undefined |
+| Restrict | .slds-progress-ring__progress path, .slds-progress-ring__progress circle |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring__progress  |
+| Summary | Progress indicator |
+| Restrict | .slds-progress-ring div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring  |
+| Summary | Progress Ring component |
+| Support | prototype |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress-ring  |
+| Summary | undefined |
+| Support | prototype |
+|  |  |
+

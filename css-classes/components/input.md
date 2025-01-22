@@ -1,11 +1,60 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-input_borders  |
+| Summary | Modifier to allow a [readonly] input to have borders |
+| Restrict | .slds-input |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-input_borders | Modifier to allow a [readonly] input to have borders |   | .slds-input |   |   |
-| .slds-input_height | undefined |   | .slds-input |   |   |
-| .slds-input_bare | undefined |   | .slds-input, input, textarea |   | true |
-| [readonly] | undefined |   | .slds-input |   |   |
-| .slds-input_counter | Variant for number input with increment and decrement buttons |   | .slds-input | true |   |
-| .slds-input | Initializes text input | dev-ready | input | true |   |
-| .slds-input | Text inputs are used for freeform data entry | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-input_height  |
+| Summary | undefined |
+| Restrict | .slds-input |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-input_bare  |
+| Summary | undefined |
+| Restrict | .slds-input, input, textarea |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [readonly]  |
+| Summary | undefined |
+| Restrict | .slds-input |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-input_counter  |
+| Summary | Variant for number input with increment and decrement buttons |
+| Restrict | .slds-input |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-input  |
+| Summary | Initializes text input |
+| Support | dev-ready |
+| Restrict | input |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-input  |
+| Summary | Text inputs are used for freeform data entry |
+| Support | dev-ready |
+|  |  |
+

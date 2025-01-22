@@ -1,9 +1,44 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-line-clamp_large  |
+| Summary | Sets line clamp for large multi-line truncation |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-line-clamp_large | Sets line clamp for large multi-line truncation |   | * |   | true |
-| .slds-line-clamp_medium | Sets line clamp for medium multi-line truncation |   | * |   | true |
-| .slds-line-clamp_small | Sets line clamp for small multi-line truncation |   | * |   | true |
-| .slds-line-clamp_x-small | Sets line clamp for x-small multi-line truncation |   | * |   | true |
-| [class*='slds-line-clamp_'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-line-clamp_medium  |
+| Summary | Sets line clamp for medium multi-line truncation |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-line-clamp_small  |
+| Summary | Sets line clamp for small multi-line truncation |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-line-clamp_x-small  |
+| Summary | Sets line clamp for x-small multi-line truncation |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-line-clamp_']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

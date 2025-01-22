@@ -1,13 +1,81 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band_user  |
+| Summary | Uses the user profile banner image as the page background image |
+| Restrict | .slds-brand-band |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-brand-band_user | Uses the user profile banner image as the page background image |   | .slds-brand-band |   | true |
-| .slds-brand-band_group | Uses the group banner image as the page background image |   | .slds-brand-band |   | true |
-| .slds-brand-band_none | Removes image but keeps page background |   | .slds-brand-band |   | true |
-| .slds-brand-band_large | Sets height of brand band to |   | .slds-brand-band |   | true |
-| .slds-brand-band_medium | Sets height of brand band to |   | .slds-brand-band |   | true |
-| .slds-brand-band_small | Sets height of brand band to |   | .slds-brand-band |   | true |
-| .slds-brand-band_cover | Changes background image to be set to cover rather than contain |   | .slds-brand-band |   | true |
-| .slds-brand-band | undefined | dev-ready | div | true |   |
-| .slds-brand-band | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band_group  |
+| Summary | Uses the group banner image as the page background image |
+| Restrict | .slds-brand-band |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band_none  |
+| Summary | Removes image but keeps page background |
+| Restrict | .slds-brand-band |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band_large  |
+| Summary | Sets height of brand band to |
+| Restrict | .slds-brand-band |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band_medium  |
+| Summary | Sets height of brand band to |
+| Restrict | .slds-brand-band |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band_small  |
+| Summary | Sets height of brand band to |
+| Restrict | .slds-brand-band |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band_cover  |
+| Summary | Changes background image to be set to cover rather than contain |
+| Restrict | .slds-brand-band |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-brand-band  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

@@ -1,6 +1,17 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-hyphenate  |
+| Summary | Creates hyphenated text |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-hyphenate | Creates hyphenated text |   | * |   | true |
-| .slds-hyphenate | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-hyphenate  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

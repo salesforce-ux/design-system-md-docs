@@ -1,27 +1,189 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-file_center-icon  |
+| Summary | undefined |
+| Restrict | .slds-file |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-file_center-icon | undefined |   | .slds-file |   |   |
-| .slds-file__loading-icon | undefined |   | .slds-file svg |   |   |
-| .slds-file__external-icon | undefined |   | .slds-file div |   |   |
-| .slds-file__actions-menu | undefined |   | .slds-file div |   |   |
-| .slds-file__icon | undefined |   | .slds-file div, .slds-file span |   |   |
-| .slds-file_card | undefined |   | .slds-file |   |   |
-| .slds-file_overlay | undefined |   | .slds-file div |   |   |
-| .slds-file__title_scrim | undefined |   | .slds-file__title |   |   |
-| .slds-file__title_card | undefined |   | .slds-file__title |   |   |
-| .slds-file__title_overlay | undefined |   | .slds-file__title |   |   |
-| .slds-file-has-actions | undefined |   | .slds-file__title |   |   |
-| .slds-file__text | undefined |   | .slds-file__title span |   |   |
-| .slds-file__title | undefined |   | .slds-file figcaption, .slds-file div |   |   |
-| .slds-file__figure | undefined |   | .slds-file a, .slds-file figure |   |   |
-| .slds-file__crop_4-by-3 | undefined |   | .slds-file__crop |   | true |
-| .slds-file__crop_16-by-9 | undefined |   | .slds-file__crop |   | true |
-| .slds-file__crop_1-by-1 | undefined |   | .slds-file__crop |   | true |
-| .slds-file__crop | undefined |   | .slds-file a, .slds-file figure |   |   |
-| .slds-file__figure_portrait | undefined |   | .slds-file a, .slds-file figure |   |   |
-| .slds-has-title | undefined |   | .slds-file, .slds-image |   |   |
-| .slds-file_loading | undefined |   | .slds-file, .slds-image |   |   |
-| .slds-file | Initializes a file component | dev-ready | figure, div | true |   |
-| .slds-file | Files are a representation of content uploaded as an attachment. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__loading-icon  |
+| Summary | undefined |
+| Restrict | .slds-file svg |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__external-icon  |
+| Summary | undefined |
+| Restrict | .slds-file div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__actions-menu  |
+| Summary | undefined |
+| Restrict | .slds-file div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__icon  |
+| Summary | undefined |
+| Restrict | .slds-file div, .slds-file span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file_card  |
+| Summary | undefined |
+| Restrict | .slds-file |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file_overlay  |
+| Summary | undefined |
+| Restrict | .slds-file div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__title_scrim  |
+| Summary | undefined |
+| Restrict | .slds-file__title |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__title_card  |
+| Summary | undefined |
+| Restrict | .slds-file__title |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__title_overlay  |
+| Summary | undefined |
+| Restrict | .slds-file__title |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-has-actions  |
+| Summary | undefined |
+| Restrict | .slds-file__title |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__text  |
+| Summary | undefined |
+| Restrict | .slds-file__title span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__title  |
+| Summary | undefined |
+| Restrict | .slds-file figcaption, .slds-file div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__figure  |
+| Summary | undefined |
+| Restrict | .slds-file a, .slds-file figure |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__crop_4-by-3  |
+| Summary | undefined |
+| Restrict | .slds-file__crop |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__crop_16-by-9  |
+| Summary | undefined |
+| Restrict | .slds-file__crop |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__crop_1-by-1  |
+| Summary | undefined |
+| Restrict | .slds-file__crop |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__crop  |
+| Summary | undefined |
+| Restrict | .slds-file a, .slds-file figure |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file__figure_portrait  |
+| Summary | undefined |
+| Restrict | .slds-file a, .slds-file figure |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-title  |
+| Summary | undefined |
+| Restrict | .slds-file, .slds-image |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file_loading  |
+| Summary | undefined |
+| Restrict | .slds-file, .slds-image |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file  |
+| Summary | Initializes a file component |
+| Support | dev-ready |
+| Restrict | figure, div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file  |
+| Summary | Files are a representation of content uploaded as an attachment. |
+| Support | dev-ready |
+|  |  |
+

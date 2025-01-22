@@ -1,6 +1,17 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-list_horizontal  |
+| Summary | Causes items of a list to display horizontally |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-list_horizontal | Causes items of a list to display horizontally |   | * |   | true |
-| [class*='slds-list_horizontal'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-list_horizontal']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

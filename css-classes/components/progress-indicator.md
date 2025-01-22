@@ -1,19 +1,128 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-progress_success  |
+| Summary | Creates a green bar for the vertical variant |
+| Restrict | .slds-progress_vertical |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-progress_success | Creates a green bar for the vertical variant |   | .slds-progress_vertical |   |   |
-| .slds-progress_vertical | undefined | dev-ready | .slds-progress | true |   |
-| .slds-progress__marker_icon-success | undefined |   | .slds-progress__marker_icon |   |   |
-| .slds-progress__marker_icon | undefined |   | .slds-progress__marker |   |   |
-| .slds-progress__marker | undefined |   | .slds-progress ol li button, .slds-progress ol li div, .slds-progress ol li span |   |   |
-| .slds-progress__item_content | Support content in line with progress marker |   | .slds-progress__item div |   |   |
-| .slds-has-error | undefined |   | .slds-progress__item |   | true |
-| .slds-is-active | undefined |   | .slds-progress__item |   | true |
-| .slds-is-completed | undefined |   | .slds-progress__item |   | true |
-| .slds-progress__item | undefined |   | .slds-progress ol li |   |   |
-| .slds-progress__list-bordered | Add borders between progress items |   | .slds-progress__list |   |   |
-| .slds-progress__list | undefined |   | .slds-progress ol |   |   |
-| .slds-progress_shade | undefined |   | .slds-progress |   | true |
-| .slds-progress | undefined | dev-ready | div | true |   |
-| .slds-progress | A progress indicator component communicates to the user the progress of a particular process. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress_vertical  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | .slds-progress |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress__marker_icon-success  |
+| Summary | undefined |
+| Restrict | .slds-progress__marker_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress__marker_icon  |
+| Summary | undefined |
+| Restrict | .slds-progress__marker |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress__marker  |
+| Summary | undefined |
+| Restrict | .slds-progress ol li button, .slds-progress ol li div, .slds-progress ol li span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress__item_content  |
+| Summary | Support content in line with progress marker |
+| Restrict | .slds-progress__item div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-error  |
+| Summary | undefined |
+| Restrict | .slds-progress__item |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-active  |
+| Summary | undefined |
+| Restrict | .slds-progress__item |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-completed  |
+| Summary | undefined |
+| Restrict | .slds-progress__item |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress__item  |
+| Summary | undefined |
+| Restrict | .slds-progress ol li |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress__list-bordered  |
+| Summary | Add borders between progress items |
+| Restrict | .slds-progress__list |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress__list  |
+| Summary | undefined |
+| Restrict | .slds-progress ol |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress_shade  |
+| Summary | undefined |
+| Restrict | .slds-progress |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-progress  |
+| Summary | A progress indicator component communicates to the user the progress of a particular process. |
+| Support | dev-ready |
+|  |  |
+

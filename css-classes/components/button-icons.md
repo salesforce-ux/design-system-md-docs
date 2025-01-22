@@ -1,30 +1,224 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-container  |
+| Summary | Creates a button icon inside of a transparent container |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-button_icon-container | Creates a button icon inside of a transparent container | dev-ready | button | true |   |
-| .slds-button_icon-inverse | Creates a button icon inside of a transparent container with a border on an inversed background | dev-ready | button | true |   |
-| .slds-button_icon-brand | Creates a brand button icon | dev-ready | button | true |   |
-| .slds-button_icon-border | Creates a button icon inside of a transparent container with a border | dev-ready | button | true |   |
-| .slds-button_icon-border-inverse | Creates a button icon inside of a transparent container with a border on an inversed background | dev-ready | button | true |   |
-| .slds-button_icon-border-filled | Creates a button icon inside of a filled container with a border | dev-ready | button | true |   |
-| .slds-is-selected | Stateful Button Icon | dev-ready | .slds-button_icon | true |   |
-| .slds-button__icon_inverse-hint | A parent class must be put on anything that contains a .slds-button__icon_inverse-hint so that the child reacts when the parent is hovered. This is for a dark background. |   | .slds-button_icon .slds-button__icon |   |   |
-| .slds-button__icon_hint | A parent class must be put on anything that contains a .slds-button__icon_hint so that the child reacts when the parent is hovered. |   | .slds-button_icon .slds-button__icon |   |   |
-| .slds-button_icon-container-more | Creates a button menu icon container that has no borders |   | .slds-button_icon |   |   |
-| .slds-button_icon-more | Creates a button menu icon container that has borders and a filled background |   | .slds-button_icon |   |   |
-| .slds-button_icon-xx-small | Changes a button icon container to be 16x16px |   | .slds-button_icon |   |   |
-| .slds-button_icon-x-small | Changes a button icon container to be 20x20px |   | .slds-button_icon |   |   |
-| .slds-button_icon-small | Changes a button icon container to be 24x24px |   | .slds-button_icon |   |   |
-| .slds-button_icon-large | Changes a button icon container to be 48x48px |   | .slds-button_icon |   |   |
-| .slds-button_icon-current-color | Apply the current color to the icon contained within |   | .slds-button_icon |   |   |
-| .slds-button_icon-warning | Warning state - Typically used in conjunction with an warning tooltip |   | .slds-button_icon |   |   |
-| .slds-button_icon-error | Error state - Typically used in conjunction with an error toolip |   | .slds-button_icon |   |   |
-| .slds-button_icon-inverse | Bare button icon with no border or background, to be used on an inversed background |   | .slds-button_icon |   |   |
-| .slds-button_icon-border-filled | Neutral themed button icon - Button icon has a border with a filled background |   | .slds-button_icon |   |   |
-| .slds-button_icon-brand | Branded button icon - Button icon has a filled background with the brand color |   | .slds-button_icon |   |   |
-| .slds-button_icon-border-inverse | Button icon with border and transparent background, to be used on an inversed background |   | .slds-button_icon |   |   |
-| .slds-button_icon-border | Transparent themed button icon - Button icon has a border with a transparent background |   | .slds-button_icon |   |   |
-| .slds-button_icon-container | Default width + height for button icon with containers |   | .slds-button_icon |   |   |
-| .slds-button_icon | Creates a button that looks like a plain icon | dev-ready | button | true |   |
-| .slds-button_icon, .slds-button_icon-brand, .slds-button_icon-container, .slds-button_icon-border, .slds-button_icon-border-filled, .slds-button_icon-inverse, .slds-button_icon-border-inverse | Buttons icons provide the user with visual iconography that is typically used to invoke an event or action. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-inverse  |
+| Summary | Creates a button icon inside of a transparent container with a border on an inversed background |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-brand  |
+| Summary | Creates a brand button icon |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-border  |
+| Summary | Creates a button icon inside of a transparent container with a border |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-border-inverse  |
+| Summary | Creates a button icon inside of a transparent container with a border on an inversed background |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-border-filled  |
+| Summary | Creates a button icon inside of a filled container with a border |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-selected  |
+| Summary | Stateful Button Icon |
+| Support | dev-ready |
+| Restrict | .slds-button_icon |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button__icon_inverse-hint  |
+| Summary | A parent class must be put on anything that contains a .slds-button__icon_inverse-hint so that the child reacts when the parent is hovered. This is for a dark background. |
+| Restrict | .slds-button_icon .slds-button__icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button__icon_hint  |
+| Summary | A parent class must be put on anything that contains a .slds-button__icon_hint so that the child reacts when the parent is hovered. |
+| Restrict | .slds-button_icon .slds-button__icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-container-more  |
+| Summary | Creates a button menu icon container that has no borders |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-more  |
+| Summary | Creates a button menu icon container that has borders and a filled background |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-xx-small  |
+| Summary | Changes a button icon container to be 16x16px |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-x-small  |
+| Summary | Changes a button icon container to be 20x20px |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-small  |
+| Summary | Changes a button icon container to be 24x24px |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-large  |
+| Summary | Changes a button icon container to be 48x48px |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-current-color  |
+| Summary | Apply the current color to the icon contained within |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-warning  |
+| Summary | Warning state - Typically used in conjunction with an warning tooltip |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-error  |
+| Summary | Error state - Typically used in conjunction with an error toolip |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-inverse  |
+| Summary | Bare button icon with no border or background, to be used on an inversed background |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-border-filled  |
+| Summary | Neutral themed button icon - Button icon has a border with a filled background |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-brand  |
+| Summary | Branded button icon - Button icon has a filled background with the brand color |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-border-inverse  |
+| Summary | Button icon with border and transparent background, to be used on an inversed background |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-border  |
+| Summary | Transparent themed button icon - Button icon has a border with a transparent background |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon-container  |
+| Summary | Default width + height for button icon with containers |
+| Restrict | .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon  |
+| Summary | Creates a button that looks like a plain icon |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-button_icon, .slds-button_icon-brand, .slds-button_icon-container, .slds-button_icon-border, .slds-button_icon-border-filled, .slds-button_icon-inverse, .slds-button_icon-border-inverse  |
+| Summary | Buttons icons provide the user with visual iconography that is typically used to invoke an event or action. |
+| Support | dev-ready |
+|  |  |
+

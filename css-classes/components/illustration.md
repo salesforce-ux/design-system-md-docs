@@ -1,8 +1,36 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-illustration_large  |
+| Summary | Applies width and height values for large illustrations |
+| Restrict | .slds-illustration |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-illustration_large | Applies width and height values for large illustrations |   | .slds-illustration |   | true |
-| .slds-illustration_small | Applies width and height values for small illustrations |   | .slds-illustration |   | true |
-| .slds-illustration | Initiates an illustration component | dev-ready | div | true |   |
-| .slds-illustration | Illustrations are used to display illustration images. They should be used within other components, such as cards. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-illustration_small  |
+| Summary | Applies width and height values for small illustrations |
+| Restrict | .slds-illustration |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-illustration  |
+| Summary | Initiates an illustration component |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-illustration  |
+| Summary | Illustrations are used to display illustration images. They should be used within other components, such as cards. |
+| Support | dev-ready |
+|  |  |
+

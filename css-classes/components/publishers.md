@@ -1,12 +1,70 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-has-focus  |
+| Summary | undefined |
+| Restrict | .slds-publisher_comment |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-has-focus | undefined |   | .slds-publisher_comment |   | true |
-| .slds-publisher_comment | Initiates publisher that is specific to commenting in threads | dev-ready | .slds-publisher | true |   |
-| .slds-publisher__actions | undefined |   | .slds-publisher div |   |   |
-| .slds-publisher__input | undefined |   | .slds-publisher textarea |   |   |
-| .slds-publisher__toggle-visibility | undefined |   | .slds-publisher label, .slds-publisher ul |   |   |
-| .slds-is-active | undefined |   | .slds-publisher |   | true |
-| .slds-publisher | Initializes a publisher | dev-ready | div | true |   |
-| .slds-publisher | A publisher is an advanced longform text input form element. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-publisher_comment  |
+| Summary | Initiates publisher that is specific to commenting in threads |
+| Support | dev-ready |
+| Restrict | .slds-publisher |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-publisher__actions  |
+| Summary | undefined |
+| Restrict | .slds-publisher div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-publisher__input  |
+| Summary | undefined |
+| Restrict | .slds-publisher textarea |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-publisher__toggle-visibility  |
+| Summary | undefined |
+| Restrict | .slds-publisher label, .slds-publisher ul |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-active  |
+| Summary | undefined |
+| Restrict | .slds-publisher |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-publisher  |
+| Summary | Initializes a publisher |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-publisher  |
+| Summary | A publisher is an advanced longform text input form element. |
+| Support | dev-ready |
+|  |  |
+

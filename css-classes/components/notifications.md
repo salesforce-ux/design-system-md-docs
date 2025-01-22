@@ -1,10 +1,50 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-notification__footer  |
+| Summary | Optional notification footer |
+| Restrict | .slds-notification div |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-notification__footer | Optional notification footer |   | .slds-notification div |   |   |
-| .slds-notification__close | Notification close button |   | .slds-notification__body button |   |   |
-| .slds-notification__target | Main reminder component |   | .slds-notification__body a |   |   |
-| .slds-notification__body | The body of the notification |   | .slds-notification div |   |   |
-| .slds-notification | undefined | dev-ready | .slds-notification-container section, .slds-notification-container div | true |   |
-| .slds-notification | Notifications serve as a feedback & confirmation mechanism that comes into the page at the top right. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notification__close  |
+| Summary | Notification close button |
+| Restrict | .slds-notification__body button |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notification__target  |
+| Summary | Main reminder component |
+| Restrict | .slds-notification__body a |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notification__body  |
+| Summary | The body of the notification |
+| Restrict | .slds-notification div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notification  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | .slds-notification-container section, .slds-notification-container div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notification  |
+| Summary | Notifications serve as a feedback & confirmation mechanism that comes into the page at the top right. |
+| Support | dev-ready |
+|  |  |
+

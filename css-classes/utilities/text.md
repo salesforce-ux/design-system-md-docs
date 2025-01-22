@@ -1,28 +1,215 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-text-font_monospace  |
+| Summary | Monospace font family |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-text-font_monospace | Monospace font family |   | * |   | true |
-| .slds-text-longform | Adds default spacing and list styling within a wrapper |   | * |   | true |
-| .slds-text-align_right | Aligns text right |   | * |   | true |
-| .slds-text-align_center | Aligns text center |   | * |   | true |
-| .slds-text-align_left | Aligns text left |   | * |   | true |
-| .slds-text-color_inverse-weak | Weak color of text on inversed background |   | * |   | true |
-| .slds-text-color_inverse | Default color of text on inversed background |   | * |   | true |
-| .slds-text-color_success | Success color of text |   | * |   | true |
-| .slds-text-color_destructive | Color of text for destructive actions |   | * |   | true |
-| .slds-text-color_error | Error color of text |   | * |   | true |
-| .slds-text-color_weak | Weak color of text |   | * |   | true |
-| .slds-text-color_default | Default color of text |   | * |   | true |
-| .slds-text-title_bold | Bold 14px heading |   | * |   | true |
-| .slds-text-title_caps | All caps 12px heading |   | * |   | true |
-| .slds-text-title | 12px heading that is not all caps |   | * |   | true |
-| .slds-text-heading_small | Smaller 16px heading |   | * |   | true |
-| .slds-text-heading_medium | Large 20px heading |   | * |   | true |
-| .slds-text-heading_large | Very large 28px heading |   | * |   | true |
-| .slds-text-body_small | Creates a more pale-colored 12px copy |   | * |   | true |
-| .slds-text-body_regular | Creates the 13px regular body copy |   | * |   | true |
-| .slds-text-link_faux | Creates a faux link with hover interactions |   | * |   | true |
-| .slds-text-link | Makes text inside of .slds-text-link_reset to appear as a link. |   | * |   | true |
-| .slds-text-link_reset | Makes links and buttons appear as regular text |   | * |   | true |
-| [class*='slds-text-'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-longform  |
+| Summary | Adds default spacing and list styling within a wrapper |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-align_right  |
+| Summary | Aligns text right |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-align_center  |
+| Summary | Aligns text center |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-align_left  |
+| Summary | Aligns text left |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-color_inverse-weak  |
+| Summary | Weak color of text on inversed background |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-color_inverse  |
+| Summary | Default color of text on inversed background |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-color_success  |
+| Summary | Success color of text |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-color_destructive  |
+| Summary | Color of text for destructive actions |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-color_error  |
+| Summary | Error color of text |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-color_weak  |
+| Summary | Weak color of text |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-color_default  |
+| Summary | Default color of text |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-title_bold  |
+| Summary | Bold 14px heading |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-title_caps  |
+| Summary | All caps 12px heading |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-title  |
+| Summary | 12px heading that is not all caps |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-heading_small  |
+| Summary | Smaller 16px heading |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-heading_medium  |
+| Summary | Large 20px heading |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-heading_large  |
+| Summary | Very large 28px heading |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-body_small  |
+| Summary | Creates a more pale-colored 12px copy |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-body_regular  |
+| Summary | Creates the 13px regular body copy |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-link_faux  |
+| Summary | Creates a faux link with hover interactions |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-link  |
+| Summary | Makes text inside of .slds-text-link_reset to appear as a link. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-link_reset  |
+| Summary | Makes links and buttons appear as regular text |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-text-']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

@@ -1,8 +1,35 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-float_right  |
+| Summary | Pulls element from document flow and floats right. Text and other elements wrap around it. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-float_right | Pulls element from document flow and floats right. Text and other elements wrap around it. |   | * |   | true |
-| .slds-float_none | Removes float from an element that has attribute already |   | * |   | true |
-| .slds-float_left | Pulls element from document flow and floats left. Text and other elements wrap around it. |   | * |   | true |
-| [class*='slds-float_'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-float_none  |
+| Summary | Removes float from an element that has attribute already |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-float_left  |
+| Summary | Pulls element from document flow and floats left. Text and other elements wrap around it. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-float_']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

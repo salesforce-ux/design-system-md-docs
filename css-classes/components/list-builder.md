@@ -1,6 +1,18 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-list-builder  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | div, section |
+| Variant | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-list-builder | undefined | dev-ready | div, section | true |   |
-| .slds-list-builder | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-list-builder  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

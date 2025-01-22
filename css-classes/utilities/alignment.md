@@ -1,6 +1,17 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-align_absolute-center  |
+| Summary | Class will absolutely center children content |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-align_absolute-center | Class will absolutely center children content |   | * |   | true |
-| [class*='slds-align_'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-align_']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

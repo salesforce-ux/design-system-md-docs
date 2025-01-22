@@ -1,41 +1,323 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-max-medium-table_stacked-horizontal  |
+| Summary | Creates stacked rows with horizontal cells |
+| Support | prototype |
+| Restrict | .slds-table |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-max-medium-table_stacked-horizontal | Creates stacked rows with horizontal cells | prototype | .slds-table |   | true |
-| .slds-max-medium-table_stacked | Creates stacked row with stacked cells | prototype | .slds-table | true |   |
-| .slds-no-cell-focus | undefined |   | .slds-table_edit |   | true |
-| .slds-cell-edit__button | undefined |   | .slds-cell-edit button |   |   |
-| .slds-has-error | undefined |   | .slds-cell-edit |   | true |
-| .slds-is-edited | undefined |   | .slds-cell-edit |   | true |
-| .slds-cell-edit | undefined |   | .slds-table_edit th, .slds-table_edit td |   |   |
-| .slds-cell-error | undefined |   | .slds-table_edit td |   |   |
-| .slds-table_edit | Initiates inline-edit mode for data-tables | dev-ready | .slds-table | true |   |
-| .slds-table_header-hidden | Used to remove the top border when a table's header is visually hidden | dev-ready | .slds-table | true |   |
-| .slds-th__action_form | undefined |   | .slds-th__action |   |   |
-| .slds-th__action | undefined |   | .slds-table th div, .slds-table th a |   |   |
-| .slds-resizable__divider | undefined |   | .slds-resizable__handle span |   |   |
-| .slds-resizable__handle | undefined |   | .slds-resizable span |   |   |
-| .slds-resizable | undefined |   | .slds-is-resizable div |   |   |
-| .slds-is-resizable | undefined |   | .slds-table_resizable-cols th |   |   |
-| .slds-table_resizable-cols | undefined |   | .slds-table_fixed-layout |   |   |
-| .slds-is-sorted_asc | undefined |   | .slds-is-sorted |   | true |
-| .slds-is-sorted | undefined |   | .slds-table_fixed-layout th |   |   |
-| .slds-th__action-button | undefined |   | .slds-has-button-menu .slds-button_icon |   |   |
-| .slds-has-button-menu | undefined |   | .slds-table_fixed-layout th |   |   |
-| .slds-is-sortable__icon | undefined |   | .slds-is-sortable .slds-icon |   |   |
-| .slds-is-sortable | undefined |   | .slds-table_fixed-layout th |   |   |
-| .slds-table_fixed-layout | Set table to use fixed layout for width and truncation purposes | dev-ready | .slds-table | true |   |
-| .slds-table_striped | undefined |   | .slds-table |   | true |
-| .slds-table_col-bordered | undefined |   | .slds-table |   | true |
-| .slds-table_bordered | undefined |   | .slds-table |   | true |
-| .slds-table_cell-buffer | undefined |   | .slds-table |   | true |
-| .slds-cell_action-mode | undefined |   | .slds-table th, .slds-table td |   | true |
-| .slds-has-focus | undefined |   | .slds-table th, .slds-table td |   | true |
-| .slds-cell-buffer_right | undefined |   | .slds-table th, .slds-table td |   | true |
-| .slds-cell-buffer_left | undefined |   | .slds-table th, .slds-table td |   | true |
-| .slds-cell-wrap | undefined |   | .slds-table th, .slds-table td |   | true |
-| .slds-is-selected | undefined |   | .slds-table tr |   | true |
-| .slds-no-row-hover | undefined |   | .slds-table |   | true |
-| .slds-table | Initializes data table | dev-ready | table | true |   |
-| .slds-table | Data tables are an enhanced version of an HTML table and are used to display tabular data. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-max-medium-table_stacked  |
+| Summary | Creates stacked row with stacked cells |
+| Support | prototype |
+| Restrict | .slds-table |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-no-cell-focus  |
+| Summary | undefined |
+| Restrict | .slds-table_edit |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-cell-edit__button  |
+| Summary | undefined |
+| Restrict | .slds-cell-edit button |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-error  |
+| Summary | undefined |
+| Restrict | .slds-cell-edit |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-edited  |
+| Summary | undefined |
+| Restrict | .slds-cell-edit |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-cell-edit  |
+| Summary | undefined |
+| Restrict | .slds-table_edit th, .slds-table_edit td |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-cell-error  |
+| Summary | undefined |
+| Restrict | .slds-table_edit td |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_edit  |
+| Summary | Initiates inline-edit mode for data-tables |
+| Support | dev-ready |
+| Restrict | .slds-table |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_header-hidden  |
+| Summary | Used to remove the top border when a table's header is visually hidden |
+| Support | dev-ready |
+| Restrict | .slds-table |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-th__action_form  |
+| Summary | undefined |
+| Restrict | .slds-th__action |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-th__action  |
+| Summary | undefined |
+| Restrict | .slds-table th div, .slds-table th a |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-resizable__divider  |
+| Summary | undefined |
+| Restrict | .slds-resizable__handle span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-resizable__handle  |
+| Summary | undefined |
+| Restrict | .slds-resizable span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-resizable  |
+| Summary | undefined |
+| Restrict | .slds-is-resizable div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-resizable  |
+| Summary | undefined |
+| Restrict | .slds-table_resizable-cols th |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_resizable-cols  |
+| Summary | undefined |
+| Restrict | .slds-table_fixed-layout |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-sorted_asc  |
+| Summary | undefined |
+| Restrict | .slds-is-sorted |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-sorted  |
+| Summary | undefined |
+| Restrict | .slds-table_fixed-layout th |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-th__action-button  |
+| Summary | undefined |
+| Restrict | .slds-has-button-menu .slds-button_icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-button-menu  |
+| Summary | undefined |
+| Restrict | .slds-table_fixed-layout th |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-sortable__icon  |
+| Summary | undefined |
+| Restrict | .slds-is-sortable .slds-icon |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-sortable  |
+| Summary | undefined |
+| Restrict | .slds-table_fixed-layout th |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_fixed-layout  |
+| Summary | Set table to use fixed layout for width and truncation purposes |
+| Support | dev-ready |
+| Restrict | .slds-table |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_striped  |
+| Summary | undefined |
+| Restrict | .slds-table |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_col-bordered  |
+| Summary | undefined |
+| Restrict | .slds-table |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_bordered  |
+| Summary | undefined |
+| Restrict | .slds-table |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table_cell-buffer  |
+| Summary | undefined |
+| Restrict | .slds-table |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-cell_action-mode  |
+| Summary | undefined |
+| Restrict | .slds-table th, .slds-table td |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-focus  |
+| Summary | undefined |
+| Restrict | .slds-table th, .slds-table td |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-cell-buffer_right  |
+| Summary | undefined |
+| Restrict | .slds-table th, .slds-table td |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-cell-buffer_left  |
+| Summary | undefined |
+| Restrict | .slds-table th, .slds-table td |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-cell-wrap  |
+| Summary | undefined |
+| Restrict | .slds-table th, .slds-table td |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-selected  |
+| Summary | undefined |
+| Restrict | .slds-table tr |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-no-row-hover  |
+| Summary | undefined |
+| Restrict | .slds-table |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table  |
+| Summary | Initializes data table |
+| Support | dev-ready |
+| Restrict | table |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-table  |
+| Summary | Data tables are an enhanced version of an HTML table and are used to display tabular data. |
+| Support | dev-ready |
+|  |  |
+

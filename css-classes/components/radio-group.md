@@ -1,8 +1,34 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-radio_faux  |
+| Summary | undefined |
+| Restrict | .slds-radio__label span |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-radio_faux | undefined |   | .slds-radio__label span |   |   |
-| .slds-radio__label | undefined |   | .slds-radio label |   |   |
-| .slds-radio | Initializes radio button | dev-ready | span | true |   |
-| .slds-radio | A select list that can have a single entry checked at any one time. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-radio__label  |
+| Summary | undefined |
+| Restrict | .slds-radio label |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-radio  |
+| Summary | Initializes radio button |
+| Support | dev-ready |
+| Restrict | span |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-radio  |
+| Summary | A select list that can have a single entry checked at any one time. |
+| Support | dev-ready |
+|  |  |
+

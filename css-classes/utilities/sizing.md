@@ -1,7 +1,26 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-size_full  |
+| Summary | undefined |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-size_full | undefined |   | * |   | true |
-| .slds-size_small | undefined |   | * |   | true |
-| [class*='slds-size_'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-size_small  |
+| Summary | undefined |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-size_']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

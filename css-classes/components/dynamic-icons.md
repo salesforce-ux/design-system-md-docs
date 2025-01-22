@@ -1,31 +1,234 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-waffle  |
+| Summary | Element container circles for the waffle icon |
+| Restrict | .slds-icon-waffle_container > span |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-icon-waffle | Element container circles for the waffle icon |   | .slds-icon-waffle_container > span |   |   |
-| .slds-icon-waffle_container | Containing actionable element that holds the waffle icon | dev-ready | button | true |   |
-| .slds-icon-typing__dot | Dots within the typing icon |   | .slds-icon-typing span |   |   |
-| .slds-is-paused | Add when you wish to pause the dots animation |   | .slds-icon-typing |   | true |
-| .slds-is-animated | Add when you wish to animate the dots |   | .slds-icon-typing |   | true |
-| .slds-icon-typing | Initializes typing icon | dev-ready | span | true |   |
-| .slds-icon-trend__circle | Circle element inside of trend icon |   | .slds-icon-trend circle |   |   |
-| .slds-icon-trend__arrow | Arrow element inside of trend icon |   | .slds-icon-trend path |   |   |
-| .slds-is-paused | Add .slds-is-paused to the SVG to pause the icon with an animation. |   | .slds-icon-trend |   |   |
-| .slds-is-animated | Add .slds-is-animated to the SVG to enhance the icon with an animation. |   | .slds-icon-trend |   |   |
-| .slds-icon-trend | Initializes trend icon | dev-ready | span | true |   |
-| .slds-is-paused | Add .slds-is-paused to the SVG to pause the icon with an animation. |   | .slds-icon-strength |   |   |
-| .slds-is-animated | Add .slds-is-animated to the SVG to enhance the icon with an animation. |   | .slds-icon-strength |   |   |
-| .slds-icon-strength | Initializes strength icon | dev-ready | span | true |   |
-| .slds-icon-score__negative | Negative score icon |   | .slds-icon-score svg |   |   |
-| .slds-icon-score__positive | Positive score icon |   | .slds-icon-score svg |   |   |
-| .slds-icon-score | Initializes score icon | dev-ready | span | true |   |
-| .slds-icon-help_focus | Modifies focus effect of global help icon |   | .slds-icon-help circle |   |   |
-| .slds-icon-help_hover | Modifies hover effect of global help icon |   | .slds-icon-help circle |   |   |
-| .slds-icon-help | Hover and click animations for help icon | prototype | button, a | true |   |
-| .slds-icon-eq__bar | Vertical bar for equalizer icon |   | .slds-icon-eq div |   |   |
-| .slds-is-animated | Turn animation on for animated icon |   | .slds-icon-eq |   |   |
-| .slds-icon-eq | undefined | dev-ready | div | true |   |
-| .slds-is-paused | Add .slds-is-paused to the SVG to pause the icon with an animation. |   | .slds-icon-ellie |   |   |
-| .slds-is-animated | Add .slds-is-animated to the SVG to enhance the icon with an animation. |   | .slds-icon-ellie |   |   |
-| .slds-icon-ellie | undefined | dev-ready | span | true |   |
-| .slds-icon-ellie, .slds-icon-score, .slds-icon-eq, .slds-icon-strength, .slds-icon-trend, .slds-icon-waffle_container, .slds-icon-help, .slds-icon-typing | A set of delightful animated icons | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-waffle_container  |
+| Summary | Containing actionable element that holds the waffle icon |
+| Support | dev-ready |
+| Restrict | button |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-typing__dot  |
+| Summary | Dots within the typing icon |
+| Restrict | .slds-icon-typing span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-paused  |
+| Summary | Add when you wish to pause the dots animation |
+| Restrict | .slds-icon-typing |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-animated  |
+| Summary | Add when you wish to animate the dots |
+| Restrict | .slds-icon-typing |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-typing  |
+| Summary | Initializes typing icon |
+| Support | dev-ready |
+| Restrict | span |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-trend__circle  |
+| Summary | Circle element inside of trend icon |
+| Restrict | .slds-icon-trend circle |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-trend__arrow  |
+| Summary | Arrow element inside of trend icon |
+| Restrict | .slds-icon-trend path |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-paused  |
+| Summary | Add .slds-is-paused to the SVG to pause the icon with an animation. |
+| Restrict | .slds-icon-trend |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-animated  |
+| Summary | Add .slds-is-animated to the SVG to enhance the icon with an animation. |
+| Restrict | .slds-icon-trend |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-trend  |
+| Summary | Initializes trend icon |
+| Support | dev-ready |
+| Restrict | span |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-paused  |
+| Summary | Add .slds-is-paused to the SVG to pause the icon with an animation. |
+| Restrict | .slds-icon-strength |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-animated  |
+| Summary | Add .slds-is-animated to the SVG to enhance the icon with an animation. |
+| Restrict | .slds-icon-strength |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-strength  |
+| Summary | Initializes strength icon |
+| Support | dev-ready |
+| Restrict | span |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-score__negative  |
+| Summary | Negative score icon |
+| Restrict | .slds-icon-score svg |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-score__positive  |
+| Summary | Positive score icon |
+| Restrict | .slds-icon-score svg |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-score  |
+| Summary | Initializes score icon |
+| Support | dev-ready |
+| Restrict | span |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-help_focus  |
+| Summary | Modifies focus effect of global help icon |
+| Restrict | .slds-icon-help circle |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-help_hover  |
+| Summary | Modifies hover effect of global help icon |
+| Restrict | .slds-icon-help circle |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-help  |
+| Summary | Hover and click animations for help icon |
+| Support | prototype |
+| Restrict | button, a |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-eq__bar  |
+| Summary | Vertical bar for equalizer icon |
+| Restrict | .slds-icon-eq div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-animated  |
+| Summary | Turn animation on for animated icon |
+| Restrict | .slds-icon-eq |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-eq  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-paused  |
+| Summary | Add .slds-is-paused to the SVG to pause the icon with an animation. |
+| Restrict | .slds-icon-ellie |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-animated  |
+| Summary | Add .slds-is-animated to the SVG to enhance the icon with an animation. |
+| Restrict | .slds-icon-ellie |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-ellie  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | span |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-ellie, .slds-icon-score, .slds-icon-eq, .slds-icon-strength, .slds-icon-trend, .slds-icon-waffle_container, .slds-icon-help, .slds-icon-typing  |
+| Summary | A set of delightful animated icons |
+| Support | dev-ready |
+|  |  |
+

@@ -1,9 +1,42 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-notify__close  |
+| Summary | Alert close button |
+| Restrict | .slds-notify_toast div |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-notify__close | Alert close button |   | .slds-notify_toast div |   |   |
-| .slds-notify_toast | Initializes toast notification |   | .slds-notify_container div |   |   |
-| .slds-notify | Initializes notification |   | .slds-notify_container div |   |   |
-| .slds-notify_container | Initializes a toast container | dev-ready | div | true |   |
-| .slds-notify_container | Toast serves as a feedback & confirmation mechanism after the user takes an action. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notify_toast  |
+| Summary | Initializes toast notification |
+| Restrict | .slds-notify_container div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notify  |
+| Summary | Initializes notification |
+| Restrict | .slds-notify_container div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notify_container  |
+| Summary | Initializes a toast container |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-notify_container  |
+| Summary | Toast serves as a feedback & confirmation mechanism after the user takes an action. |
+| Support | dev-ready |
+|  |  |
+

@@ -1,9 +1,45 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-checkbox-button_is-focused  |
+| Summary | Modifier for the focused state |
+| Restrict | .slds-checkbox-button |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-checkbox-button_is-focused | Modifier for the focused state |   | .slds-checkbox-button |   | true |
-| .slds-checkbox-button_is-disabled | Modifier for the disabled state |   | .slds-checkbox-button |   | true |
-| .slds-checkbox-button_is-checked | Modifier for the checked state |   | .slds-checkbox-button |   | true |
-| .slds-checkbox-button | Initializes checkbox button | dev-ready | label | true |   |
-| .slds-checkbox-button | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-checkbox-button_is-disabled  |
+| Summary | Modifier for the disabled state |
+| Restrict | .slds-checkbox-button |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-checkbox-button_is-checked  |
+| Summary | Modifier for the checked state |
+| Restrict | .slds-checkbox-button |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-checkbox-button  |
+| Summary | Initializes checkbox button |
+| Support | dev-ready |
+| Restrict | label |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-checkbox-button  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

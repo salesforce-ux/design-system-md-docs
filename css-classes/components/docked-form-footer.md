@@ -1,6 +1,18 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-form-footer  |
+| Summary | Creates a docked form footer |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-docked-form-footer | Creates a docked form footer | dev-ready | div | true |   |
-| .slds-docked-form-footer | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-docked-form-footer  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

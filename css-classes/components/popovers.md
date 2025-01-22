@@ -1,86 +1,718 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__body_scrollable  |
+| Summary | Applies scrollable styles for popovers |
+| Restrict | .slds-popover_error .slds-popover__body, .slds-popover_warning .slds-popover__body |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-popover__body_scrollable | Applies scrollable styles for popovers |   | .slds-popover_error .slds-popover__body, .slds-popover_warning .slds-popover__body |   |   |
-| .slds-popover_warning | Initializes an warning non-modal dialog | dev-ready | .slds-popover | true |   |
-| .slds-popover_walkthrough-alt | undefined |   | .slds-popover_walkthrough |   | true |
-| .slds-popover_walkthrough | Initializes a walkthrough non-modal dialog | dev-ready | .slds-popover | true |   |
-| .slds-popover_prompt_bottom-right | Position Prompt bottom right |   | .slds-popover_prompt |   | true |
-| .slds-popover_prompt_bottom | Position Prompt bottom center |   | .slds-popover_prompt |   | true |
-| .slds-popover_prompt_bottom-left | Position Prompt bottom left |   | .slds-popover_prompt |   | true |
-| .slds-popover_prompt_top-right | Position Prompt top right |   | .slds-popover_prompt |   | true |
-| .slds-popover_prompt_top | Position Prompt top center |   | .slds-popover_prompt |   | true |
-| .slds-popover_prompt_top-left | Position Prompt top left |   | .slds-popover_prompt |   | true |
-| .slds-popover_prompt__action-link | Applies styles for the optional action link in the footer of prompt |   | .slds-popover_prompt .slds-popover__footer span |   |   |
-| .slds-popover_prompt__heading | Applies styles for heading text of prompt |   | .slds-popover_prompt .slds-media__body > h2 |   |   |
-| .slds-popover_prompt | Initializes a prompt non-modal dialog | dev-ready | .slds-popover | true |   |
-| .slds-popover_panel__label | undefined |   | .slds-popover_panel p |   |   |
-| .slds-popover_panel | undefined | dev-ready | .slds-popover | true |   |
-| .slds-nubbin_right-bottom-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-bottom-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right-top-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-top-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-right-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-right-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-left-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-left-corner | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right-bottom | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right-top | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_right | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-bottom | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left-top | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_left | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-right | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom-left | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_bottom | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-right | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top-left | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-nubbin_top | undefined |   | .slds-popover, .slds-dropdown |   | true |
-| .slds-popover_feature | Initializes a feature non-modal dialog | dev-ready | .slds-popover | true |   |
-| .slds-popover__body_scrollable | Applies scrollable styles for popovers |   | .slds-popover_error .slds-popover__body, .slds-popover_warning .slds-popover__body |   |   |
-| .slds-popover_error | Initializes an error non-modal dialog | dev-ready | .slds-popover | true |   |
-| .slds-popover_brand-right | Applies popover brand styles to right |   | .slds-popover_brand |   |   |
-| .slds-popover_brand-bottom | Applies popover brand styles to bottom |   | .slds-popover_brand |   |   |
-| .slds-popover_brand-left | Applies popover brand styles to left |   | .slds-popover_brand |   |   |
-| .slds-popover_brand-top | Applies popover brand styles to top |   | .slds-popover_brand |   |   |
-| .slds-popover_brand | Initializes a brand popover | dev-ready | .slds-popover | true |   |
-| .slds-popover_dark | Applies styles for dark variant of popover |   | .slds-popover |   | true |
-| .slds-popover_hide | Modifier to hide a popover |   | .slds-popover |   |   |
-| .slds-popover_full-width | Modifier for popover to take 100% width |   | .slds-popover |   | true |
-| .slds-popover_large | Width modifier for popover - large |   | .slds-popover |   | true |
-| .slds-popover_medium | Width modifier for popover - medium |   | .slds-popover |   | true |
-| .slds-popover_small | Width modifier for popover - small |   | .slds-popover |   | true |
-| .slds-popover__close | Close button within a popover |   | .slds-popover button |   |   |
-| .slds-popover__footer_form | Applies styles to center align content for footer area of a form popover |   | .slds-popover footer |   |   |
-| .slds-popover__footer | Applies styles for footer area of popover |   | .slds-popover footer |   |   |
-| .slds-popover__header | Applies styles for top area of popover |   | .slds-popover header, .slds-popover div |   |   |
-| .slds-popover__body_small | Applies a max-height and vertical scrolling to a popover body |   | .slds-popover__body |   | true |
-| .slds-dropdown_length-with-icon-10 | Forces overflow scrolling after 10 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-with-icon-7 | Forces overflow scrolling after 7 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-with-icon-5 | Forces overflow scrolling after 5 list items with an icon |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-10 | Forces overflow scrolling after 10 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-7 | Forces overflow scrolling after 7 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-dropdown_length-5 | Forces overflow scrolling after 5 list items |   | .slds-dropdown, .slds-dropdown__list, .slds-listbox |   | true |
-| .slds-listbox_vertical | undefined |   | .slds-listbox |   | true |
-| .slds-listbox__icon-selected | undefined |   | .slds-listbox__item svg |   |   |
-| .slds-listbox__option-meta | undefined |   | .slds-listbox__option span |   |   |
-| .slds-listbox__option-text_entity | undefined |   | .slds-listbox__option span |   |   |
-| .slds-is-selected | undefined |   | .slds-listbox__option |   | true |
-| .slds-listbox__option_has-meta | undefined |   | .slds-listbox__option |   |   |
-| .slds-listbox__option_plain | undefined |   | .slds-listbox__option |   |   |
-| .slds-listbox__option_entity | undefined |   | .slds-listbox__option |   |   |
-| .slds-has-focus | undefined |   | .slds-listbox__option |   | true |
-| .slds-listbox__option-icon | Container for listbox option icon |   | .slds-listbox__option span |   |   |
-| .slds-listbox__option-header | Header for choosable option within listbox |   | .slds-listbox__option h3 |   |   |
-| .slds-listbox__option | undefined |   | .slds-listbox__item > div |   |   |
-| .slds-listbox__item | undefined |   | .slds-listbox > li |   |   |
-| .slds-listbox_horizontal | undefined |   | .slds-listbox |   | true |
-| .slds-listbox_inline | undefined |   | .slds-listbox |   | true |
-| .slds-listbox | undefined | dev-ready | .slds-dropdown ul, .slds-dueling-list__options ul, .slds-pill_container ul, .slds-listbox_selection-group ul, .slds-combobox_container ul, .slds-form-element__control ul, .slds-popover__body ul | true |   |
-| .slds-popover__body | Applies styles for primary content area of popover |   | .slds-popover div |   |   |
-| .slds-popover__meta | Applies styles for meta content of popover |   | .slds-popover |   |   |
-| .slds-form-element__label_edit | undefined |   | .slds-popover_edit label |   |   |
-| .slds-popover_edit | undefined |   | .slds-popover |   |   |
-| .slds-popover | undefined | dev-ready | [role="dialog"], [role="tooltip"] | true |   |
-| .slds-popover | A popover is a non-modal dialog. The component should be paired with a clickable trigger element and contain at least one focusable element. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_warning  |
+| Summary | Initializes an warning non-modal dialog |
+| Support | dev-ready |
+| Restrict | .slds-popover |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_walkthrough-alt *(Deprecated)* |
+| Summary | undefined |
+| Restrict | .slds-popover_walkthrough |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_walkthrough *(Deprecated)* |
+| Summary | Initializes a walkthrough non-modal dialog |
+| Support | dev-ready |
+| Restrict | .slds-popover |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt_bottom-right  |
+| Summary | Position Prompt bottom right |
+| Restrict | .slds-popover_prompt |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt_bottom  |
+| Summary | Position Prompt bottom center |
+| Restrict | .slds-popover_prompt |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt_bottom-left  |
+| Summary | Position Prompt bottom left |
+| Restrict | .slds-popover_prompt |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt_top-right  |
+| Summary | Position Prompt top right |
+| Restrict | .slds-popover_prompt |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt_top  |
+| Summary | Position Prompt top center |
+| Restrict | .slds-popover_prompt |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt_top-left  |
+| Summary | Position Prompt top left |
+| Restrict | .slds-popover_prompt |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt__action-link  |
+| Summary | Applies styles for the optional action link in the footer of prompt |
+| Restrict | .slds-popover_prompt .slds-popover__footer span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt__heading  |
+| Summary | Applies styles for heading text of prompt |
+| Restrict | .slds-popover_prompt .slds-media__body > h2 |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_prompt  |
+| Summary | Initializes a prompt non-modal dialog |
+| Support | dev-ready |
+| Restrict | .slds-popover |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_panel__label  |
+| Summary | undefined |
+| Restrict | .slds-popover_panel p |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_panel  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | .slds-popover |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-bottom-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-bottom-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-top-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-top-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-right-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-right-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-left-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-left-corner  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-bottom  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right-top  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_right  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-bottom  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left-top  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_left  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-right  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom-left  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_bottom  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-right  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top-left  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-nubbin_top  |
+| Summary | undefined |
+| Restrict | .slds-popover, .slds-dropdown |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_feature *(Deprecated)* |
+| Summary | Initializes a feature non-modal dialog |
+| Support | dev-ready |
+| Restrict | .slds-popover |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__body_scrollable  |
+| Summary | Applies scrollable styles for popovers |
+| Restrict | .slds-popover_error .slds-popover__body, .slds-popover_warning .slds-popover__body |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_error  |
+| Summary | Initializes an error non-modal dialog |
+| Support | dev-ready |
+| Restrict | .slds-popover |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_brand-right  |
+| Summary | Applies popover brand styles to right |
+| Restrict | .slds-popover_brand |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_brand-bottom  |
+| Summary | Applies popover brand styles to bottom |
+| Restrict | .slds-popover_brand |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_brand-left  |
+| Summary | Applies popover brand styles to left |
+| Restrict | .slds-popover_brand |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_brand-top  |
+| Summary | Applies popover brand styles to top |
+| Restrict | .slds-popover_brand |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_brand  |
+| Summary | Initializes a brand popover |
+| Support | dev-ready |
+| Restrict | .slds-popover |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_dark  |
+| Summary | Applies styles for dark variant of popover |
+| Restrict | .slds-popover |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_hide  |
+| Summary | Modifier to hide a popover |
+| Restrict | .slds-popover |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_full-width  |
+| Summary | Modifier for popover to take 100% width |
+| Restrict | .slds-popover |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_large  |
+| Summary | Width modifier for popover - large |
+| Restrict | .slds-popover |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_medium  |
+| Summary | Width modifier for popover - medium |
+| Restrict | .slds-popover |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_small  |
+| Summary | Width modifier for popover - small |
+| Restrict | .slds-popover |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__close  |
+| Summary | Close button within a popover |
+| Restrict | .slds-popover button |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__footer_form  |
+| Summary | Applies styles to center align content for footer area of a form popover |
+| Restrict | .slds-popover footer |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__footer  |
+| Summary | Applies styles for footer area of popover |
+| Restrict | .slds-popover footer |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__header  |
+| Summary | Applies styles for top area of popover |
+| Restrict | .slds-popover header, .slds-popover div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__body_small  |
+| Summary | Applies a max-height and vertical scrolling to a popover body |
+| Restrict | .slds-popover__body |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-10  |
+| Summary | Forces overflow scrolling after 10 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-7  |
+| Summary | Forces overflow scrolling after 7 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-with-icon-5  |
+| Summary | Forces overflow scrolling after 5 list items with an icon |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-10  |
+| Summary | Forces overflow scrolling after 10 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-7  |
+| Summary | Forces overflow scrolling after 7 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dropdown_length-5  |
+| Summary | Forces overflow scrolling after 5 list items |
+| Restrict | .slds-dropdown, .slds-dropdown__list, .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox_vertical  |
+| Summary | undefined |
+| Restrict | .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__icon-selected  |
+| Summary | undefined |
+| Restrict | .slds-listbox__item svg |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-meta  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-text_entity  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-selected  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option_has-meta  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option_plain  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option_entity  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-focus  |
+| Summary | undefined |
+| Restrict | .slds-listbox__option |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-icon  |
+| Summary | Container for listbox option icon |
+| Restrict | .slds-listbox__option span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option-header  |
+| Summary | Header for choosable option within listbox |
+| Restrict | .slds-listbox__option h3 |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__option  |
+| Summary | undefined |
+| Restrict | .slds-listbox__item > div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox__item  |
+| Summary | undefined |
+| Restrict | .slds-listbox > li |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox_horizontal  |
+| Summary | undefined |
+| Restrict | .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox_inline  |
+| Summary | undefined |
+| Restrict | .slds-listbox |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-listbox  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | .slds-dropdown ul, .slds-dueling-list__options ul, .slds-pill_container ul, .slds-listbox_selection-group ul, .slds-combobox_container ul, .slds-form-element__control ul, .slds-popover__body ul |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__body  |
+| Summary | Applies styles for primary content area of popover |
+| Restrict | .slds-popover div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover__meta  |
+| Summary | Applies styles for meta content of popover |
+| Restrict | .slds-popover |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-form-element__label_edit  |
+| Summary | undefined |
+| Restrict | .slds-popover_edit label |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover_edit  |
+| Summary | undefined |
+| Restrict | .slds-popover |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | [role="dialog"], [role="tooltip"] |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-popover  |
+| Summary | A popover is a non-modal dialog. The component should be paired with a clickable trigger element and contain at least one focusable element. |
+| Support | dev-ready |
+|  |  |
+

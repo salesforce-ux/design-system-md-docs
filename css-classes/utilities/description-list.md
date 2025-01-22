@@ -1,11 +1,62 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-dl_horizontal__detail  |
+| Summary | Marks a description |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-dl_horizontal__detail | Marks a description |   | * |   | true |
-| .slds-dl_horizontal__label | Marks a term |   | * |   | true |
-| .slds-dl_horizontal | Causes description list to display horizontally with `dt` consuming 33% of the space and the `dd` taking up the rest. |   | * |   | true |
-| .slds-dl_inline__detail | Marks a description |   | * |   | true |
-| .slds-dl_inline__label | Marks a term |   | * |   | true |
-| .slds-dl_inline | Causes description list to display horizontally with `dt` followed immediately by the `dd`. |   | * |   | true |
-| [class*='slds-dl'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dl_horizontal__label  |
+| Summary | Marks a term |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dl_horizontal  |
+| Summary | Causes description list to display horizontally with `dt` consuming 33% of the space and the `dd` taking up the rest. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dl_inline__detail  |
+| Summary | Marks a description |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dl_inline__label  |
+| Summary | Marks a term |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-dl_inline  |
+| Summary | Causes description list to display horizontally with `dt` followed immediately by the `dd`. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-dl']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

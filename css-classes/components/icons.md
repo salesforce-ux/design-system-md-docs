@@ -1,25 +1,190 @@
 
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-icon-standard-']  |
+| Summary | Standard icons |
+| Support | dev-ready |
+| Restrict | .slds-icon_container, svg, abbr |
+| Variant | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| [class*='slds-icon-standard-'] | Standard icons | dev-ready | .slds-icon_container, svg, abbr | true |   |
-| [class*='slds-icon-doctype-'] | Container for icons | dev-ready | .slds-icon_container, svg | true |   |
-| [class*='slds-icon-custom-'] | Custom icons | dev-ready | .slds-icon_container, svg, abbr | true |   |
-| .slds-icon_disabled | undefined |   | .slds-icon_container |   |   |
-| .slds-current-color | undefined |   | .slds-icon_container |   | true |
-| .slds-icon-text-light | undefined |   | .slds-icon, svg |   | true |
-| .slds-icon-text-error | Changes the icon fill color to match the error state |   | .slds-icon |   | true |
-| .slds-icon-text-success | Changes the icon fill color to match the success state |   | .slds-icon |   | true |
-| .slds-icon-text-warning | Changes the icon fill color to match the warning state |   | .slds-icon |   | true |
-| .slds-is-disabled | Changes the icon fill color to match the disabled state |   | .slds-icon |   | true |
-| .slds-icon-text-default | Changes the icon fill color to match the default state |   | .slds-icon |   | true |
-| .slds-icon_large | undefined |   | .slds-icon |   | true |
-| .slds-icon_small | undefined |   | .slds-icon |   | true |
-| .slds-icon_x-small | undefined |   | .slds-icon, .slds-button__icon |   | true |
-| .slds-icon_xx-small | undefined |   | .slds-icon |   | true |
-| .slds-icon | undefined |   | .slds-icon_container svg, svg |   |   |
-| .slds-icon_container_circle | Circle container for icons |   | .slds-icon_container |   |   |
-| [class*='slds-icon-action-'] | Action icons | dev-ready | .slds-icon_container, svg, abbr | true |   |
-| .slds-avatar-grouped__icon | Modifier for the icon Avatar in an Avatar Group |   | .slds-icon_container |   | true |
-| .slds-icon_container | Container for icons | dev-ready | span, div | true |   |
-| .slds-icon_container | Icons provide visual context and enhance usability. Looking for the icons? Go to [Resources › Icons](/icons/). | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-icon-doctype-']  |
+| Summary | Container for icons |
+| Support | dev-ready |
+| Restrict | .slds-icon_container, svg |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-icon-custom-']  |
+| Summary | Custom icons |
+| Support | dev-ready |
+| Restrict | .slds-icon_container, svg, abbr |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_disabled  |
+| Summary | undefined |
+| Restrict | .slds-icon_container |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-current-color  |
+| Summary | undefined |
+| Restrict | .slds-icon_container |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-text-light  |
+| Summary | undefined |
+| Restrict | .slds-icon, svg |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-text-error  |
+| Summary | Changes the icon fill color to match the error state |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-text-success  |
+| Summary | Changes the icon fill color to match the success state |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-text-warning  |
+| Summary | Changes the icon fill color to match the warning state |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-disabled  |
+| Summary | Changes the icon fill color to match the disabled state |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon-text-default  |
+| Summary | Changes the icon fill color to match the default state |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_large  |
+| Summary | undefined |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_small  |
+| Summary | undefined |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_x-small  |
+| Summary | undefined |
+| Restrict | .slds-icon, .slds-button__icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_xx-small  |
+| Summary | undefined |
+| Restrict | .slds-icon |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon  |
+| Summary | undefined |
+| Restrict | .slds-icon_container svg, svg |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_container_circle  |
+| Summary | Circle container for icons |
+| Restrict | .slds-icon_container |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-icon-action-']  |
+| Summary | Action icons |
+| Support | dev-ready |
+| Restrict | .slds-icon_container, svg, abbr |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-avatar-grouped__icon  |
+| Summary | Modifier for the icon Avatar in an Avatar Group |
+| Restrict | .slds-icon_container |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_container  |
+| Summary | Container for icons |
+| Support | dev-ready |
+| Restrict | span, div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-icon_container  |
+| Summary | Icons provide visual context and enhance usability. Looking for the icons? Go to [Resources › Icons](/icons/). |
+| Support | dev-ready |
+|  |  |
+

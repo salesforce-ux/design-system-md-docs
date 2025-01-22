@@ -1,14 +1,84 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone__actions  |
+| Summary | Action buttons within drop zone |
+| Restrict | .slds-drop-zone div |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-drop-zone__actions | Action buttons within drop zone |   | .slds-drop-zone div |   |   |
-| .slds-is-hovered | Hover state for a component within a drop zone |   | .slds-drop-zone div |   | true |
-| .slds-drop-zone__container | Populated region within drop zone |   | .slds-drop-zone div |   |   |
-| .slds-drop-zone__label_button | Button within drop zone label |   | .slds-drop-zone__label button |   |   |
-| .slds-drop-zone__label_container | Top of populated label of drop zone |   | .slds-drop-zone__label |   |   |
-| .slds-drop-zone__label | Top label of drop zone |   | .slds-drop-zone div |   |   |
-| .slds-drop-zone_drag__slot | Insertion point of drop zone |   | .slds-drop-zone_drag div |   |   |
-| .slds-drop-zone_drag | Modifier used to indicate that component may be dropped in container |   | .slds-drop-zone |   | true |
-| .slds-drop-zone | Creates a drop-zone component for screen building | dev-ready | div | true |   |
-| .slds-drop-zone | Screen building element to indicate to users where components may be dragged and dropped. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-is-hovered  |
+| Summary | Hover state for a component within a drop zone |
+| Restrict | .slds-drop-zone div |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone__container  |
+| Summary | Populated region within drop zone |
+| Restrict | .slds-drop-zone div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone__label_button  |
+| Summary | Button within drop zone label |
+| Restrict | .slds-drop-zone__label button |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone__label_container  |
+| Summary | Top of populated label of drop zone |
+| Restrict | .slds-drop-zone__label |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone__label  |
+| Summary | Top label of drop zone |
+| Restrict | .slds-drop-zone div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone_drag__slot  |
+| Summary | Insertion point of drop zone |
+| Restrict | .slds-drop-zone_drag div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone_drag  |
+| Summary | Modifier used to indicate that component may be dropped in container |
+| Restrict | .slds-drop-zone |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone  |
+| Summary | Creates a drop-zone component for screen building |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-drop-zone  |
+| Summary | Screen building element to indicate to users where components may be dragged and dropped. |
+| Support | dev-ready |
+|  |  |
+

@@ -1,8 +1,35 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-text-link_faux  |
+| Summary | Creates a faux link with hover interactions |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-text-link_faux | Creates a faux link with hover interactions |   | * |   | true |
-| .slds-text-link | Makes text inside of .slds-text-link_reset to appear as a link. |   | * |   | true |
-| .slds-text-link_reset | Makes links and buttons appear as regular text |   | * |   | true |
-| [class*='slds-text-link'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-link  |
+| Summary | Makes text inside of .slds-text-link_reset to appear as a link. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-text-link_reset  |
+| Summary | Makes links and buttons appear as regular text |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-text-link']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

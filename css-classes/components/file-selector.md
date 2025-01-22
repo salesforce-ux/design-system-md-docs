@@ -1,20 +1,137 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__text_integrated  |
+| Summary | undefined |
+| Restrict | .slds-file-selector_integrated span |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-file-selector__text_integrated | undefined |   | .slds-file-selector_integrated span |   |   |
-| .slds-file-selector__body_integrated | undefined |   | .slds-file-selector_integrated label |   |   |
-| .slds-has-drag-over | undefined |   | .slds-file-selector__dropzone_integrated |   | true |
-| .slds-has-drag | undefined |   | .slds-file-selector__dropzone_integrated |   | true |
-| .slds-file-selector__dropzone_integrated | undefined |   | .slds-file-selector_integrated div |   |   |
-| .slds-file-selector_integrated | undefined | dev-ready | .slds-file-selector | true |   |
-| .slds-file-selector_images | undefined | dev-ready | .slds-file-selector | true |   |
-| .slds-file-selector__text | undefined |   | .slds-file-selector span |   |   |
-| .slds-file-selector__body | undefined |   | .slds-file-selector label |   |   |
-| .slds-file-selector_files | undefined |   | .slds-file-selector |   |   |
-| .slds-file-selector__button | undefined |   | .slds-file-selector button, .slds-file-selector span |   |   |
-| .slds-file-selector__input | undefined |   | .slds-file-selector input |   |   |
-| .slds-has-drag-over | undefined |   | .slds-file-selector__dropzone |   | true |
-| .slds-file-selector__dropzone | undefined |   | .slds-file-selector div |   |   |
-| .slds-file-selector | undefined | dev-ready | div | true |   |
-| .slds-file-selector | The File selector component allows the user to select file(s) from a user’s file system. Either natively using an file input or drag and drop. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__body_integrated  |
+| Summary | undefined |
+| Restrict | .slds-file-selector_integrated label |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-drag-over  |
+| Summary | undefined |
+| Restrict | .slds-file-selector__dropzone_integrated |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-drag  |
+| Summary | undefined |
+| Restrict | .slds-file-selector__dropzone_integrated |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__dropzone_integrated  |
+| Summary | undefined |
+| Restrict | .slds-file-selector_integrated div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector_integrated  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | .slds-file-selector |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector_images  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | .slds-file-selector |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__text  |
+| Summary | undefined |
+| Restrict | .slds-file-selector span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__body  |
+| Summary | undefined |
+| Restrict | .slds-file-selector label |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector_files  |
+| Summary | undefined |
+| Restrict | .slds-file-selector |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__button  |
+| Summary | undefined |
+| Restrict | .slds-file-selector button, .slds-file-selector span |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__input  |
+| Summary | undefined |
+| Restrict | .slds-file-selector input |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-drag-over  |
+| Summary | undefined |
+| Restrict | .slds-file-selector__dropzone |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector__dropzone  |
+| Summary | undefined |
+| Restrict | .slds-file-selector div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector  |
+| Summary | undefined |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-file-selector  |
+| Summary | The File selector component allows the user to select file(s) from a user’s file system. Either natively using an file input or drag and drop. |
+| Support | dev-ready |
+|  |  |
+

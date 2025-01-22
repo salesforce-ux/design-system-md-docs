@@ -1,7 +1,26 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-item_detail  |
+| Summary | Label of the name-value pair variant. Layout is modified by its parent class. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-item_detail | Label of the name-value pair variant. Layout is modified by its parent class. |   | * |   | true |
-| .slds-item_label | Label of the name-value pair variant. Layout is modified by its parent class. |   | * |   | true |
-| [class*='slds-item_'] | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-item_label  |
+| Summary | Label of the name-value pair variant. Layout is modified by its parent class. |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | [class*='slds-item_']  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

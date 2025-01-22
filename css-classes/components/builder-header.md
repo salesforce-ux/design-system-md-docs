@@ -1,17 +1,108 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-toolbar__item-group  |
+| Summary | Region containing button icon groups of Builder header toolbar |
+| Restrict | .slds-builder-toolbar div |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-builder-toolbar__item-group | Region containing button icon groups of Builder header toolbar |   | .slds-builder-toolbar div |   |   |
-| .slds-builder-toolbar__actions | Region of Builder header toolbar that contains the document actions |   | .slds-builder-toolbar div |   |   |
-| .slds-builder-toolbar | Builder header toolbar | dev-ready | .slds-builder-header_container div | true |   |
-| .slds-builder-header__utilities | Container around builder header's utiltity region containing the back and help links |   | .slds-builder-header div |   |   |
-| .slds-builder-header__nav-item | Items of the builder headers nav |   | .slds-builder-header__nav li |   |   |
-| .slds-builder-header__nav-list | List containing navigation items of a builder header |   | .slds-builder-header__nav ul |   |   |
-| .slds-builder-header__nav | Container around builder header's nav region |   | .slds-builder-header nav |   |   |
-| .slds-builder-header__item-action | Action or label inside of a header item |   | .slds-builder-header__item a, .slds-builder-header__item button |   |   |
-| .slds-builder-header__item-label | Label inside of a header item |   | .slds-builder-header__item span, .slds-builder-header__item div, .slds-builder-header__item h1 |   |   |
-| .slds-builder-header__item | Direct child descendant item of the builder header |   | .slds-builder-header div, .slds-builder-header nav |   |   |
-| .slds-builder-header | Creates builder specific global header |   | .slds-builder-header_container header |   |   |
-| .slds-builder-header_container | Container that fixes the builder header to the top of the viewport, contains builder header element | dev-ready | div | true |   |
-| .slds-builder-header_container | Builder specific global header | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-toolbar__actions  |
+| Summary | Region of Builder header toolbar that contains the document actions |
+| Restrict | .slds-builder-toolbar div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-toolbar  |
+| Summary | Builder header toolbar |
+| Support | dev-ready |
+| Restrict | .slds-builder-header_container div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header__utilities  |
+| Summary | Container around builder header's utiltity region containing the back and help links |
+| Restrict | .slds-builder-header div |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header__nav-item  |
+| Summary | Items of the builder headers nav |
+| Restrict | .slds-builder-header__nav li |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header__nav-list  |
+| Summary | List containing navigation items of a builder header |
+| Restrict | .slds-builder-header__nav ul |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header__nav  |
+| Summary | Container around builder header's nav region |
+| Restrict | .slds-builder-header nav |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header__item-action  |
+| Summary | Action or label inside of a header item |
+| Restrict | .slds-builder-header__item a, .slds-builder-header__item button |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header__item-label  |
+| Summary | Label inside of a header item |
+| Restrict | .slds-builder-header__item span, .slds-builder-header__item div, .slds-builder-header__item h1 |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header__item  |
+| Summary | Direct child descendant item of the builder header |
+| Restrict | .slds-builder-header div, .slds-builder-header nav |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header  |
+| Summary | Creates builder specific global header |
+| Restrict | .slds-builder-header_container header |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header_container  |
+| Summary | Container that fixes the builder header to the top of the viewport, contains builder header element |
+| Support | dev-ready |
+| Restrict | div |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-builder-header_container  |
+| Summary | Builder specific global header |
+| Support | dev-ready |
+|  |  |
+

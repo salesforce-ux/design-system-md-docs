@@ -1,6 +1,18 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-modal_prompt  |
+| Summary | Initializes Prompt style notification |
+| Support | dev-ready |
+| Restrict | section[role="alertdialog"] |
+| Variant | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-modal_prompt | Initializes Prompt style notification | dev-ready | section[role="alertdialog"] | true |   |
-| .slds-modal_prompt | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-modal_prompt  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

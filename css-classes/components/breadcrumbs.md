@@ -1,7 +1,26 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-breadcrumb__item  |
+| Summary | Item of the breadcrumb list |
+| Restrict | .slds-breadcrumb li |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-breadcrumb__item | Item of the breadcrumb list |   | .slds-breadcrumb li |   |   |
-| .slds-breadcrumb | Create breadcrumbs component | dev-ready | ol | true |   |
-| .slds-breadcrumb | Use breadcrumbs to note the path of a record and help the user to navigate back to the parent. | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-breadcrumb  |
+| Summary | Create breadcrumbs component |
+| Support | dev-ready |
+| Restrict | ol |
+| Variant | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-breadcrumb  |
+| Summary | Use breadcrumbs to note the path of a record and help the user to navigate back to the parent. |
+| Support | dev-ready |
+|  |  |
+

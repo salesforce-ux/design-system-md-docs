@@ -1,7 +1,26 @@
 
+|  |  |
+|-------|-------|
+| Selector | .slds-has-top-magnet  |
+| Summary | Assumes element above is connected |
+| Restrict | * |
+| Modifier | true |
+|  |  |
 
-| Selector | Summary | Support | Restrict | Variant | Modifier |
-|-------|-------|-------|-------|-------|-------|
-| .slds-has-top-magnet | Assumes element above is connected |   | * |   | true |
-| .slds-has-bottom-magnet | Assumes element below is connected |   | * |   | true |
-| .slds-has-top-magnet, .slds-has-bottom-magnet | undefined | dev-ready |   |   |   |
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-bottom-magnet  |
+| Summary | Assumes element below is connected |
+| Restrict | * |
+| Modifier | true |
+|  |  |
+
+
+|  |  |
+|-------|-------|
+| Selector | .slds-has-top-magnet, .slds-has-bottom-magnet  |
+| Summary | undefined |
+| Support | dev-ready |
+|  |  |
+

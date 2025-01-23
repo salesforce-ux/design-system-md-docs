@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-size_full  |
+| Selector | .slds-size_full |
 | Summary | undefined |
 | Restrict | * |
 | Modifier | true |
@@ -10,7 +10,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-size_small  |
+| Selector | .slds-size_small |
 | Summary | undefined |
 | Restrict | * |
 | Modifier | true |
@@ -19,7 +19,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | [class*='slds-size_']  |
+| Selector | [class*='slds-size_'] |
 | Summary | undefined |
 | Support | dev-ready |
 |  |  |

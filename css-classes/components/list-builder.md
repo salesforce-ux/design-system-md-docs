@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-list-builder  |
+| Selector | .slds-list-builder |
 | Summary | undefined |
 | Support | dev-ready |
 | Restrict | div, section |
@@ -11,7 +11,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-list-builder  |
+| Selector | .slds-list-builder |
 | Summary | undefined |
 | Support | dev-ready |
 |  |  |

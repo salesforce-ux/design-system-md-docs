@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-post__footer-meta-list  |
+| Selector | .slds-post__footer-meta-list |
 | Summary | undefined |
 | Restrict | .slds-post__footer ul |
 |  |  |
@@ -9,7 +9,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-is-active  |
+| Selector | .slds-is-active |
 | Summary | undefined |
 | Restrict | .slds-post__footer-action |
 | Modifier | true |
@@ -18,7 +18,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-post__footer-action  |
+| Selector | .slds-post__footer-action |
 | Summary | undefined |
 | Restrict | .slds-post__footer-actions-list button |
 |  |  |
@@ -26,7 +26,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-post__footer-actions-list  |
+| Selector | .slds-post__footer-actions-list |
 | Summary | undefined |
 | Restrict | .slds-post__footer ul |
 |  |  |
@@ -34,7 +34,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-post__footer  |
+| Selector | .slds-post__footer |
 | Summary | undefined |
 | Restrict | .slds-post footer |
 |  |  |
@@ -42,7 +42,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-post__content  |
+| Selector | .slds-post__content |
 | Summary | undefined |
 | Restrict | .slds-post div |
 |  |  |
@@ -50,7 +50,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-post__header  |
+| Selector | .slds-post__header |
 | Summary | undefined |
 | Restrict | .slds-post header |
 |  |  |
@@ -58,7 +58,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-post  |
+| Selector | .slds-post |
 | Summary | undefined |
 | Support | dev-ready |
 | Restrict | .slds-feed article |
@@ -68,7 +68,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-feed__item-comments  |
+| Selector | .slds-feed__item-comments |
 | Summary | undefined |
 | Restrict | .slds-feed__item div |
 |  |  |
@@ -76,7 +76,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-feed__item  |
+| Selector | .slds-feed__item |
 | Summary | undefined |
 | Restrict | .slds-feed__list li |
 |  |  |
@@ -84,7 +84,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-feed__list  |
+| Selector | .slds-feed__list |
 | Summary | undefined |
 | Restrict | .slds-feed ul |
 |  |  |
@@ -92,7 +92,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-feed  |
+| Selector | .slds-feed |
 | Summary | undefined |
 | Support | dev-ready |
 | Restrict | div |
@@ -102,7 +102,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-feed  |
+| Selector | .slds-feed |
 | Summary | A feed consists of a list of recurring elements of similar types. Examples of a feed would be a discussion feed. |
 | Support | dev-ready |
 |  |  |

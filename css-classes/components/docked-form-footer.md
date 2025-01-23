@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-docked-form-footer  |
+| Selector | .slds-docked-form-footer |
 | Summary | Creates a docked form footer |
 | Support | dev-ready |
 | Restrict | div |
@@ -11,7 +11,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-docked-form-footer  |
+| Selector | .slds-docked-form-footer |
 | Summary | undefined |
 | Support | dev-ready |
 |  |  |

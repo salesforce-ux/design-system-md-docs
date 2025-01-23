@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-select  |
+| Selector | .slds-select |
 | Summary | Initializes select |
 | Support | dev-ready |
 | Restrict | select |
@@ -11,7 +11,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-select, .slds-select_container  |
+| Selector | .slds-select, .slds-select_container |
 | Summary | Select element presents a menu of options. For selecting multiple options, see Dueling Picklist. |
 | Support | dev-ready |
 |  |  |

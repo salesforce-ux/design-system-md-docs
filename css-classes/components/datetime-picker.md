@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-datetime-picker  |
+| Selector | .slds-datetime-picker |
 | Summary | Initializes a datetime picker |
 | Support | dev-ready |
 | Restrict | div |
@@ -11,7 +11,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-datetime-picker  |
+| Selector | .slds-datetime-picker |
 | Summary | A datetime picker is used to select a day and a time. |
 | Support | dev-ready |
 |  |  |

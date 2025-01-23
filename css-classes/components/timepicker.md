@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-timepicker  |
+| Selector | .slds-timepicker |
 | Summary | Initializes a timepicker |
 | Support | dev-ready |
 | Restrict | div |
@@ -11,7 +11,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-timepicker  |
+| Selector | .slds-timepicker |
 | Summary | A timepicker is an autocomplete text input to capture a time. |
 | Support | dev-ready |
 |  |  |

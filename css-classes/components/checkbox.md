@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-checkbox_standalone  |
+| Selector | .slds-checkbox_standalone |
 | Summary | Checkbox with top-level label and value != label |
 | Support | dev-ready |
 | Restrict | .slds-checkbox |
@@ -11,7 +11,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-checkbox__label  |
+| Selector | .slds-checkbox__label |
 | Summary | Container for faux checkbox, text, and slds-form-element__label |
 | Restrict | .slds-checkbox label |
 |  |  |
@@ -19,7 +19,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-checkbox_faux  |
+| Selector | .slds-checkbox_faux |
 | Summary | Creates a custom styled checkbox |
 | Restrict | .slds-checkbox span |
 |  |  |
@@ -27,16 +27,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-checkbox_stacked *(Deprecated)* |
-| Summary | stacks label over checkbox |
-| Restrict | .slds-checkbox |
-| Modifier | true |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-checkbox  |
+| Selector | .slds-checkbox |
 | Summary | Initializes checkbox |
 | Support | dev-ready |
 | Restrict | span, label, div |
@@ -46,7 +37,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-checkbox  |
+| Selector | .slds-checkbox |
 | Summary | A checkable input that communicates if an option is true, false or indeterminate |
 | Support | dev-ready |
 |  |  |

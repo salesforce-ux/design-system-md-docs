@@ -1,7 +1,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-textarea  |
+| Selector | .slds-textarea |
 | Summary | Initialize textarea |
 | Support | dev-ready |
 | Restrict | textarea |
@@ -11,7 +11,7 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-textarea  |
+| Selector | .slds-textarea |
 | Summary | undefined |
 | Support | dev-ready |
 |  |  |

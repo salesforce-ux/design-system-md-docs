@@ -200,11 +200,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-page-header |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

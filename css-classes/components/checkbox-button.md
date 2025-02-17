@@ -35,11 +35,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-checkbox-button |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

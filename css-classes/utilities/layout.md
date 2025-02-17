@@ -16,11 +16,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-has-top-magnet, .slds-has-bottom-magnet |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

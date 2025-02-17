@@ -33,11 +33,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-summary-detail |
-| Summary | Use Summary Detail to show and hide details while always showing a summary |
-| Support | dev-ready |
-|  |  |
-

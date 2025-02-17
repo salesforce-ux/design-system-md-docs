@@ -214,11 +214,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button_icon, .slds-button_icon-brand, .slds-button_icon-container, .slds-button_icon-border, .slds-button_icon-border-filled, .slds-button_icon-inverse, .slds-button_icon-border-inverse |
-| Summary | Buttons icons provide the user with visual iconography that is typically used to invoke an event or action. |
-| Support | dev-ready |
-|  |  |
-

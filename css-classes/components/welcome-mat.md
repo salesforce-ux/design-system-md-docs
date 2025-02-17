@@ -192,11 +192,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-welcome-mat |
-| Summary | Welcome Mat component |
-| Support | dev-ready |
-|  |  |
-

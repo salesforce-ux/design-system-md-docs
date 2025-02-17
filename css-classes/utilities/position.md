@@ -70,11 +70,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-is-'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

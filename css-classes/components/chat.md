@@ -289,11 +289,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-chat |
-| Summary | Use Chat to display current or historical instant messaging chat sessions |
-| Support | dev-ready |
-|  |  |
-

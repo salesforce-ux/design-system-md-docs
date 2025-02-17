@@ -96,11 +96,3 @@
 | Restrict | * |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-theme'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

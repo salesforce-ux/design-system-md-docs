@@ -290,11 +290,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-path, .slds-region_medium, .slds-region_small |
-| Summary | A process component communicates to the user the progress of a particular process. |
-| Support | dev-ready |
-|  |  |
-

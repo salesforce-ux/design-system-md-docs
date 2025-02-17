@@ -52,11 +52,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button-group, .slds-button-group-list, .slds-button-group-row |
-| Summary | Button groups are used to bunch together buttons with similar actions |
-| Support | dev-ready |
-|  |  |
-

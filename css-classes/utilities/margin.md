@@ -97,11 +97,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-m-'], [class*='slds-var-m-'] |
-| Summary | Adjust whitespace with horizontal and vertical spacing helpers |
-| Support | dev-ready |
-|  |  |
-

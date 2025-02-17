@@ -235,11 +235,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-tabs_default, .slds-tabs-mobile__container, .slds-tabs-mobile__group |
-| Summary | A tab keeps related content in a single container that is shown and hidden through navigation. |
-| Support | dev-ready |
-|  |  |
-

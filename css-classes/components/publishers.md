@@ -60,11 +60,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-publisher |
-| Summary | A publisher is an advanced longform text input form element. |
-| Support | dev-ready |
-|  |  |
-

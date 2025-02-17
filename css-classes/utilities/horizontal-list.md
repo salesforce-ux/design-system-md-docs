@@ -7,11 +7,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-list_horizontal'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

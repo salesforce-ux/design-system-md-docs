@@ -108,11 +108,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-card, .slds-card-wrapper |
-| Summary | Cards are used to apply a container around a related grouping of information. |
-| Support | dev-ready |
-|  |  |
-

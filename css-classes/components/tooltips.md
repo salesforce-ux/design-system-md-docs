@@ -62,11 +62,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-popover_tooltip |
-| Summary | A Tooltip is a small piece of contextual information about an element on the screen, which is displayed when a user hovers or focuses on the element it is describing. It is not focusable and cannot contain focusable content. |
-| Support | dev-ready |
-|  |  |
-

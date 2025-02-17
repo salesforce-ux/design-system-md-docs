@@ -180,11 +180,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-icon_container |
-| Summary | Icons provide visual context and enhance usability. Looking for the icons? Go to [Resources › Icons](/icons/). |
-| Support | dev-ready |
-|  |  |
-

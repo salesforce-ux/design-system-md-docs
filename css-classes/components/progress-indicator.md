@@ -118,11 +118,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-progress |
-| Summary | A progress indicator component communicates to the user the progress of a particular process. |
-| Support | dev-ready |
-|  |  |
-

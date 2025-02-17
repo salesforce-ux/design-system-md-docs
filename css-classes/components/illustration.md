@@ -26,11 +26,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-illustration |
-| Summary | Illustrations are used to display illustration images. They should be used within other components, such as cards. |
-| Support | dev-ready |
-|  |  |
-

@@ -68,11 +68,3 @@
 | Restrict | * |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-media_'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

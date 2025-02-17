@@ -33,11 +33,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-slider |
-| Summary | An input range slider lets the user specify a numeric value which must be between two specified values. |
-| Support | dev-ready |
-|  |  |
-

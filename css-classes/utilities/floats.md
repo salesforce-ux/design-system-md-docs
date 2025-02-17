@@ -25,11 +25,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-float_'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -245,11 +245,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-dueling-list |
-| Summary | A dueling-picklist is used to move options between two lists and is often referred to as a multi-select. Sometimes, the list options can then be re-ordered, depending on the use case. |
-| Support | dev-ready |
-|  |  |
-

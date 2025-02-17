@@ -16,11 +16,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-item_'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

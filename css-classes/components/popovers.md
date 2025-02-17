@@ -679,11 +679,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-popover |
-| Summary | A popover is a non-modal dialog. The component should be paired with a clickable trigger element and contain at least one focusable element. |
-| Support | dev-ready |
-|  |  |
-

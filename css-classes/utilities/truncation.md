@@ -52,11 +52,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='truncate'], .slds-truncate |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

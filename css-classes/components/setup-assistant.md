@@ -56,11 +56,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-setup-assistant |
-| Summary | Setup Assistant |
-| Support | dev-ready |
-|  |  |
-

@@ -7,11 +7,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-hyphenate |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -81,11 +81,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-timeline |
-| Summary | The activity timeline displays each of the user’s upcoming, current, and past activities. |
-| Support | dev-ready |
-|  |  |
-

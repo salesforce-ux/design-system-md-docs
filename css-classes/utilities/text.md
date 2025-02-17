@@ -205,11 +205,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-text-'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -7,11 +7,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-no-print |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

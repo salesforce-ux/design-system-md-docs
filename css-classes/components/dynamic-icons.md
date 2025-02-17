@@ -224,11 +224,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-icon-ellie, .slds-icon-score, .slds-icon-eq, .slds-icon-strength, .slds-icon-trend, .slds-icon-waffle_container, .slds-icon-help, .slds-icon-typing |
-| Summary | A set of delightful animated icons |
-| Support | dev-ready |
-|  |  |
-

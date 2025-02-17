@@ -40,11 +40,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-checkbox_toggle |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

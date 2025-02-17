@@ -115,11 +115,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-utility-bar_container |
-| Summary | Docked utility bar is a persistent bar that allows a user to continually use the app to complete tasks while expanding/collapsing utility panels. |
-| Support | dev-ready |
-|  |  |
-

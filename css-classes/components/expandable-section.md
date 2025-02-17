@@ -57,11 +57,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-section |
-| Summary | Toggle visibility of section content |
-| Support | dev-ready |
-|  |  |
-

@@ -7,11 +7,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-box'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

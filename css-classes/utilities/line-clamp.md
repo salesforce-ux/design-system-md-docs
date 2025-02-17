@@ -34,11 +34,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-line-clamp_'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

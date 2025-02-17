@@ -166,11 +166,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-color-picker |
-| Summary | A configurable interface for color selection |
-| Support | dev-ready |
-|  |  |
-

@@ -62,11 +62,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-badge |
-| Summary | Badges are labels which hold small amounts of information. |
-| Support | dev-ready |
-|  |  |
-

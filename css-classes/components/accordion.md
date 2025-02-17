@@ -81,11 +81,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-accordion |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

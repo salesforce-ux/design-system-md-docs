@@ -472,11 +472,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-form-element, .slds-form |
-| Summary | An HTML form element contains a HTML label and element |
-| Support | dev-ready |
-|  |  |
-

@@ -99,11 +99,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-feed |
-| Summary | A feed consists of a list of recurring elements of similar types. Examples of a feed would be a discussion feed. |
-| Support | dev-ready |
-|  |  |
-

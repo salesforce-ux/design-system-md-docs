@@ -89,11 +89,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-avatar-group |
-| Summary | Avatar Groups are used to bunch together avatars within a shared context |
-| Support | dev-ready |
-|  |  |
-

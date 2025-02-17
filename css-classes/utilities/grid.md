@@ -556,11 +556,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-grid'], [class*='slds-wrap'], [class*='slds-nowrap'], [class*='slds-gutters'], .slds-col, [class*='slds-col-'], [class*='slds-col_'], .slds-has-flexi-truncate, .slds-no-flex, .slds-no-space, [class*='slds-grow'], [class*='slds-shrink'], [class*='slds-container'] |
-| Summary | The SLDS grid, based on Flexbox, provides a flexible, mobile-first, device-agnostic scaffolding system. It includes helper classes that you can use to alter the look and behavior of your grid, such as alignment, order, flow, and padding helpers. |
-| Support | dev-ready |
-|  |  |
-

@@ -16,11 +16,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-dynamic-menu |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

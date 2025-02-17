@@ -41,11 +41,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-app-launcher__tile |
-| Summary | The App Launcher allows the user to quickly access all the apps and functionality with their organization. |
-| Support | dev-ready |
-|  |  |
-

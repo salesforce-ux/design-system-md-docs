@@ -16,11 +16,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-size_'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -179,11 +179,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-file |
-| Summary | Files are a representation of content uploaded as an attachment. |
-| Support | dev-ready |
-|  |  |
-

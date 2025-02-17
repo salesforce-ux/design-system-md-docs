@@ -50,11 +50,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-tile, .slds-tile_board |
-| Summary | A tile is a grouping of related information associated with a record. |
-| Support | dev-ready |
-|  |  |
-

@@ -169,11 +169,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-expression, .slds-filters |
-| Summary | An Expression builder helps users declaratively construct logical expressions. |
-| Support | dev-ready |
-|  |  |
-

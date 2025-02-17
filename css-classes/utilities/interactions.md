@@ -25,11 +25,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-text-link'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

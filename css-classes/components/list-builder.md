@@ -8,11 +8,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-list-builder |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

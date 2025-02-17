@@ -786,11 +786,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-docked-composer, .slds-docked_container |
-| Summary | Docked Composer is a persistent utility bar that allows a user to continually use the app to complete tasks or gather information while expanding/collapsing a composer window. |
-| Support | dev-ready |
-|  |  |
-

@@ -100,11 +100,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-split-view_container |
-| Summary | Split view is used to navigate between records in a list while staying on the same screen. |
-| Support | dev-ready |
-|  |  |
-

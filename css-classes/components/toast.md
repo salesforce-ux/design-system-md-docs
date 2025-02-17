@@ -32,11 +32,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-notify_container |
-| Summary | Toast serves as a feedback & confirmation mechanism after the user takes an action. |
-| Support | dev-ready |
-|  |  |
-

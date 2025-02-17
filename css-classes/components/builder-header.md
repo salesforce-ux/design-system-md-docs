@@ -98,11 +98,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-builder-header_container |
-| Summary | Builder specific global header |
-| Support | dev-ready |
-|  |  |
-

@@ -170,11 +170,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-modal |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

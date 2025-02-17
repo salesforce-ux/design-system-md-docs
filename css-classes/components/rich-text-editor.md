@@ -106,11 +106,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-rich-text-editor |
-| Summary | The Rich Text Editor is a textarea with added capabilities for use in various publishers. |
-| Support | dev-ready |
-|  |  |
-

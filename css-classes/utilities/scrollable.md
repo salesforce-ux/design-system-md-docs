@@ -34,11 +34,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-scrollable'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -52,11 +52,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-dl'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

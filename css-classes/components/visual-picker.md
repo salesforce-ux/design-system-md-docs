@@ -113,11 +113,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-visual-picker, .slds-box_link |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

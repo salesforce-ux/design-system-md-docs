@@ -798,11 +798,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-combobox_container, .slds-combobox-group |
-| Summary | A widget that provides a user with an input field that is either an autocomplete or readonly, accompanied with a listbox of pre-defined options. |
-| Support | dev-ready |
-|  |  |
-

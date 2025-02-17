@@ -330,11 +330,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-combobox, .slds-combobox-group |
-| Summary | Lookup is an autocomplete combobox that will search against a database object. |
-| Support | dev-ready |
-|  |  |
-

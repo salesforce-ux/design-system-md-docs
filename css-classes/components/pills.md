@@ -76,11 +76,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-pill, .slds-pill_container |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

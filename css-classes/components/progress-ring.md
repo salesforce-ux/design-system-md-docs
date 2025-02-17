@@ -85,11 +85,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-progress-ring |
-| Summary | undefined |
-| Support | prototype |
-|  |  |
-

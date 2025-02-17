@@ -50,11 +50,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-input |
-| Summary | Text inputs are used for freeform data entry |
-| Support | dev-ready |
-|  |  |
-

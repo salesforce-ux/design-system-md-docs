@@ -34,11 +34,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-checkbox |
-| Summary | A checkable input that communicates if an option is true, false or indeterminate |
-| Support | dev-ready |
-|  |  |
-

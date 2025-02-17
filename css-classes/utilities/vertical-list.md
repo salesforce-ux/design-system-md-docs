@@ -16,11 +16,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-list_vertical'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

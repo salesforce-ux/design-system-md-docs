@@ -8,11 +8,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-datetime-picker |
-| Summary | A datetime picker is used to select a day and a time. |
-| Support | dev-ready |
-|  |  |
-

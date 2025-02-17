@@ -16,11 +16,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-map_container |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

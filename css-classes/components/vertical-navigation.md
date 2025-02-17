@@ -93,11 +93,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-nav-vertical |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

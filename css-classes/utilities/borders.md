@@ -34,11 +34,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-border_'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

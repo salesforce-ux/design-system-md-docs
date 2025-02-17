@@ -8,11 +8,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-docked-form-footer |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

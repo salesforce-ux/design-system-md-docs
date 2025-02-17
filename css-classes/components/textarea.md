@@ -8,11 +8,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-textarea |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

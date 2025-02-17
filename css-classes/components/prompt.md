@@ -8,11 +8,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-modal_prompt |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

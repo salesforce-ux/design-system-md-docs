@@ -16,11 +16,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-breadcrumb |
-| Summary | Use breadcrumbs to note the path of a record and help the user to navigate back to the parent. |
-| Support | dev-ready |
-|  |  |
-

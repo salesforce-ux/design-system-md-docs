@@ -680,11 +680,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-dropdown-trigger |
-| Summary | A Menu offers a list of actions or functions that a user can access. |
-| Support | dev-ready |
-|  |  |
-

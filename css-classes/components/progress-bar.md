@@ -80,11 +80,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-progress-bar |
-| Summary | A progress bar component communicates to the user the progress of a particular process. |
-| Support | dev-ready |
-|  |  |
-

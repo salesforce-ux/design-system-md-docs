@@ -71,11 +71,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-brand-band |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

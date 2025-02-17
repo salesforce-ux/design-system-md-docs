@@ -97,11 +97,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-p-'], [class*='slds-var-p-'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -79,11 +79,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='show'], [class*='hide'], [class*='assistive-text'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -96,11 +96,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-carousel |
-| Summary | A carousel allows multiple pieces of featured content to occupy an allocated amount of space. |
-| Support | dev-ready |
-|  |  |
-

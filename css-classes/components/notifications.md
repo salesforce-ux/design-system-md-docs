@@ -40,11 +40,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-notification |
-| Summary | Notifications serve as a feedback & confirmation mechanism that comes into the page at the top right. |
-| Support | dev-ready |
-|  |  |
-

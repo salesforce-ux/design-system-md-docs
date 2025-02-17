@@ -317,11 +317,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button, .slds-button_stateful, .slds-button_dual-stateful, .slds-button_reset |
-| Summary | Buttons are used to invoke an event |
-| Support | dev-ready |
-|  |  |
-

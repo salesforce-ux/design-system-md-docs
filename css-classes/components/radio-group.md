@@ -24,11 +24,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-radio |
-| Summary | A select list that can have a single entry checked at any one time. |
-| Support | dev-ready |
-|  |  |
-

@@ -7,11 +7,3 @@
 | Modifier | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | [class*='slds-align_'] |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

@@ -74,11 +74,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-drop-zone |
-| Summary | Screen building element to indicate to users where components may be dragged and dropped. |
-| Support | dev-ready |
-|  |  |
-

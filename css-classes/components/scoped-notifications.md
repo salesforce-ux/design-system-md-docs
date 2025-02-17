@@ -26,11 +26,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-scoped-notification |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

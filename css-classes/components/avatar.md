@@ -129,11 +129,3 @@
 | Variant | true |
 |  |  |
 
-
-|  |  |
-|-------|-------|
-| Selector | .slds-avatar |
-| Summary | undefined |
-| Support | dev-ready |
-|  |  |
-

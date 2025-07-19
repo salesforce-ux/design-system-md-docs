@@ -44,7 +44,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-not-selected |
-| Summary | undefined |
 | Restrict | .slds-button_stateful |
 | Modifier | true |
 |  |  |
@@ -132,7 +131,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon_x-small |
-| Summary | undefined |
 | Restrict | .slds-icon, .slds-button__icon |
 | Modifier | true |
 |  |  |

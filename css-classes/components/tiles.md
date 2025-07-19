@@ -20,7 +20,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-tile__meta |
-| Summary | undefined |
 | Restrict | .slds-tile div |
 |  |  |
 
@@ -28,7 +27,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-tile__detail |
-| Summary | undefined |
 | Restrict | .slds-tile div |
 |  |  |
 

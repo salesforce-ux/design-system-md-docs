@@ -80,7 +80,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox_vertical |
-| Summary | undefined |
 | Restrict | .slds-listbox |
 | Modifier | true |
 |  |  |
@@ -89,7 +88,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__icon-selected |
-| Summary | undefined |
 | Restrict | .slds-listbox__item svg |
 |  |  |
 
@@ -97,7 +95,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option-meta |
-| Summary | undefined |
 | Restrict | .slds-listbox__option span |
 |  |  |
 
@@ -105,7 +102,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option-text_entity |
-| Summary | undefined |
 | Restrict | .slds-listbox__option span |
 |  |  |
 
@@ -113,7 +109,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-selected |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 | Modifier | true |
 |  |  |
@@ -122,7 +117,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option_has-meta |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 |  |  |
 
@@ -130,7 +124,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option_plain |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 |  |  |
 
@@ -138,7 +131,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option_entity |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 |  |  |
 
@@ -146,7 +138,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-has-focus |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 | Modifier | true |
 |  |  |
@@ -171,7 +162,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option |
-| Summary | undefined |
 | Restrict | .slds-listbox__item > div |
 |  |  |
 
@@ -179,7 +169,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__item |
-| Summary | undefined |
 | Restrict | .slds-listbox > li |
 |  |  |
 
@@ -187,7 +176,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox_horizontal |
-| Summary | undefined |
 | Restrict | .slds-listbox |
 | Modifier | true |
 |  |  |
@@ -196,7 +184,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox_inline |
-| Summary | undefined |
 | Restrict | .slds-listbox |
 | Modifier | true |
 |  |  |
@@ -205,7 +192,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | .slds-dropdown ul, .slds-dueling-list__options ul, .slds-pill_container ul, .slds-listbox_selection-group ul, .slds-combobox_container ul, .slds-form-element__control ul, .slds-popover__body ul |
 | Variant | true |

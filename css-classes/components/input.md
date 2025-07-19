@@ -10,7 +10,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-input_height |
-| Summary | undefined |
 | Restrict | .slds-input |
 |  |  |
 
@@ -18,7 +17,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-input_bare |
-| Summary | undefined |
 | Restrict | .slds-input, input, textarea |
 | Modifier | true |
 |  |  |
@@ -27,7 +25,6 @@
 |  |  |
 |-------|-------|
 | Selector | [readonly] |
-| Summary | undefined |
 | Restrict | .slds-input |
 |  |  |
 

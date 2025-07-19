@@ -2,7 +2,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-radio_button__label |
-| Summary | undefined |
 | Restrict | .slds-radio_button label |
 |  |  |
 
@@ -10,7 +9,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-radio_faux |
-| Summary | undefined |
 | Restrict | .slds-radio_button span |
 |  |  |
 
@@ -18,7 +16,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-radio_button |
-| Summary | undefined |
 | Restrict | .slds-radio_button-group span |
 |  |  |
 

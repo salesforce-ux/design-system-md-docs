@@ -2,7 +2,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-panel_filters |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | .slds-panel |
 | Variant | true |
@@ -113,7 +112,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-panel__actions |
-| Summary | undefined |
 | Restrict | .slds-panel div |
 |  |  |
 
@@ -121,7 +119,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-panel__section |
-| Summary | undefined |
 | Restrict | .slds-panel div |
 |  |  |
 

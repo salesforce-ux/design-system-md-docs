@@ -260,7 +260,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-has-overflow |
-| Summary | undefined |
 | Restrict | .slds-path__track |
 |  |  |
 
@@ -284,7 +283,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-path |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | div |
 | Variant | true |

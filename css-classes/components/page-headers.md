@@ -90,7 +90,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-page-header__title |
-| Summary | undefined |
 | Restrict | .slds-page-header h1 span |
 |  |  |
 

@@ -192,7 +192,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon-eq |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | div |
 | Variant | true |
@@ -218,7 +217,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon-ellie |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | span |
 | Variant | true |

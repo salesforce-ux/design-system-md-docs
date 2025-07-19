@@ -2,7 +2,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-open |
-| Summary | undefined |
 | Restrict | .slds-summary-detail |
 | Modifier | true |
 |  |  |

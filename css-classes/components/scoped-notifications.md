@@ -20,7 +20,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-scoped-notification |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | div |
 | Variant | true |

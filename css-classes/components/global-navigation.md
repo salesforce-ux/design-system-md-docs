@@ -37,7 +37,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__icon-action |
-| Summary | undefined |
 | Restrict | .slds-context-bar div |
 |  |  |
 
@@ -45,7 +44,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__item_divider-right |
-| Summary | undefined |
 | Restrict | .slds-context-bar div, .slds-context-bar li |
 |  |  |
 
@@ -53,7 +51,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__item_divider-left |
-| Summary | undefined |
 | Restrict | .slds-context-bar div, .slds-context-bar li |
 |  |  |
 
@@ -61,7 +58,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-active |
-| Summary | undefined |
 | Restrict | .slds-context-bar__item:not(.slds-no-hover) |
 | Modifier | true |
 |  |  |
@@ -78,7 +74,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__object-switcher |
-| Summary | undefined |
 | Restrict | .slds-context-bar__item |
 |  |  |
 
@@ -86,7 +81,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-indicator_unsaved |
-| Summary | undefined |
 | Restrict | .slds-context-bar__item span, abbr |
 |  |  |
 
@@ -94,7 +88,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__app-name |
-| Summary | undefined |
 | Restrict | .slds-context-bar__label-action |
 |  |  |
 
@@ -102,7 +95,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__label-action |
-| Summary | undefined |
 | Restrict | .slds-context-bar__item a, .slds-context-bar__item span, .slds-context-bar__item button |
 |  |  |
 
@@ -134,7 +126,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-has-focus |
-| Summary | undefined |
 | Restrict | .slds-context-bar__item |
 | Modifier | true |
 |  |  |
@@ -167,7 +158,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__item |
-| Summary | undefined |
 | Restrict | .slds-context-bar div, .slds-context-bar li |
 |  |  |
 
@@ -175,7 +165,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__vertical-divider |
-| Summary | undefined |
 | Restrict | .slds-context-bar div |
 |  |  |
 
@@ -183,7 +172,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__secondary |
-| Summary | undefined |
 | Restrict | .slds-context-bar nav, .slds-context-bar div |
 |  |  |
 
@@ -191,7 +179,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-context-bar__primary |
-| Summary | undefined |
 | Restrict | .slds-context-bar div |
 |  |  |
 

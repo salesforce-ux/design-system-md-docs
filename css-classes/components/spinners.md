@@ -2,7 +2,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner_large |
-| Summary | undefined |
 | Restrict | .slds-spinner |
 | Modifier | true |
 |  |  |
@@ -11,7 +10,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner_medium |
-| Summary | undefined |
 | Restrict | .slds-spinner |
 | Modifier | true |
 |  |  |
@@ -20,7 +18,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner_small |
-| Summary | undefined |
 | Restrict | .slds-spinner |
 | Modifier | true |
 |  |  |
@@ -29,7 +26,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner_x-small |
-| Summary | undefined |
 | Restrict | .slds-spinner |
 | Modifier | true |
 |  |  |
@@ -38,7 +34,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner_xx-small |
-| Summary | undefined |
 | Restrict | .slds-spinner |
 | Modifier | true |
 |  |  |
@@ -47,7 +42,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner_inverse |
-| Summary | undefined |
 | Restrict | .slds-spinner |
 | Modifier | true |
 |  |  |
@@ -56,7 +50,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner_brand |
-| Summary | undefined |
 | Restrict | .slds-spinner |
 | Modifier | true |
 |  |  |
@@ -74,7 +67,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner__dot-b |
-| Summary | undefined |
 | Restrict | .slds-spinner div |
 |  |  |
 
@@ -82,7 +74,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner__dot-a |
-| Summary | undefined |
 | Restrict | .slds-spinner div |
 |  |  |
 
@@ -99,7 +90,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-spinner |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | div |
 | Variant | true |

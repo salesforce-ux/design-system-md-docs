@@ -10,7 +10,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-dynamic-menu |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | section[role="dialog"] |
 | Variant | true |

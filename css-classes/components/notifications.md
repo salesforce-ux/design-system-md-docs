@@ -34,7 +34,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-notification |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | .slds-notification-container section, .slds-notification-container div |
 | Variant | true |

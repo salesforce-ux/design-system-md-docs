@@ -2,7 +2,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-popover_walkthrough-alt |
-| Summary | undefined |
 | Restrict | .slds-popover_walkthrough |
 | Modifier | true |
 |  |  |

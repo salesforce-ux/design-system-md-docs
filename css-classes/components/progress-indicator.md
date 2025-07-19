@@ -10,7 +10,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress_vertical |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | .slds-progress |
 | Variant | true |
@@ -20,7 +19,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress__marker_icon-success |
-| Summary | undefined |
 | Restrict | .slds-progress__marker_icon |
 |  |  |
 
@@ -28,7 +26,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress__marker_icon |
-| Summary | undefined |
 | Restrict | .slds-progress__marker |
 |  |  |
 
@@ -36,7 +33,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress__marker |
-| Summary | undefined |
 | Restrict | .slds-progress ol li button, .slds-progress ol li div, .slds-progress ol li span |
 |  |  |
 
@@ -52,7 +48,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-has-error |
-| Summary | undefined |
 | Restrict | .slds-progress__item |
 | Modifier | true |
 |  |  |
@@ -61,7 +56,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-active |
-| Summary | undefined |
 | Restrict | .slds-progress__item |
 | Modifier | true |
 |  |  |
@@ -70,7 +64,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-completed |
-| Summary | undefined |
 | Restrict | .slds-progress__item |
 | Modifier | true |
 |  |  |
@@ -79,7 +72,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress__item |
-| Summary | undefined |
 | Restrict | .slds-progress ol li |
 |  |  |
 
@@ -95,7 +87,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress__list |
-| Summary | undefined |
 | Restrict | .slds-progress ol |
 |  |  |
 
@@ -103,7 +94,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress_shade |
-| Summary | undefined |
 | Restrict | .slds-progress |
 | Modifier | true |
 |  |  |
@@ -112,7 +102,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | div |
 | Variant | true |

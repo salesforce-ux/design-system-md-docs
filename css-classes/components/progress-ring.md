@@ -55,7 +55,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress-ring__progress-head |
-| Summary | undefined |
 | Restrict | .slds-progress-ring__progress div |
 |  |  |
 
@@ -63,7 +62,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-progress-ring__path |
-| Summary | undefined |
 | Restrict | .slds-progress-ring__progress path, .slds-progress-ring__progress circle |
 |  |  |
 

@@ -2,7 +2,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-radio_faux |
-| Summary | undefined |
 | Restrict | .slds-radio__label span |
 |  |  |
 
@@ -10,7 +9,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-radio__label |
-| Summary | undefined |
 | Restrict | .slds-radio label |
 |  |  |
 

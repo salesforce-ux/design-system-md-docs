@@ -35,7 +35,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-table_tree |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | table |
 | Variant | true |

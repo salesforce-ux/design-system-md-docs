@@ -68,7 +68,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-split-view |
-| Summary | undefined |
 | Restrict | .slds-split-view_container article |
 |  |  |
 

@@ -32,7 +32,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon_disabled |
-| Summary | undefined |
 | Restrict | .slds-icon_container |
 |  |  |
 
@@ -40,7 +39,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-current-color |
-| Summary | undefined |
 | Restrict | .slds-icon_container |
 | Modifier | true |
 |  |  |
@@ -49,7 +47,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon-text-light |
-| Summary | undefined |
 | Restrict | .slds-icon, svg |
 | Modifier | true |
 |  |  |
@@ -103,7 +100,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon_large |
-| Summary | undefined |
 | Restrict | .slds-icon |
 | Modifier | true |
 |  |  |
@@ -112,7 +108,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon_small |
-| Summary | undefined |
 | Restrict | .slds-icon |
 | Modifier | true |
 |  |  |
@@ -121,7 +116,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon_x-small |
-| Summary | undefined |
 | Restrict | .slds-icon, .slds-button__icon |
 | Modifier | true |
 |  |  |
@@ -130,7 +124,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon_xx-small |
-| Summary | undefined |
 | Restrict | .slds-icon |
 | Modifier | true |
 |  |  |
@@ -139,7 +132,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-icon |
-| Summary | undefined |
 | Restrict | .slds-icon_container svg, svg |
 |  |  |
 

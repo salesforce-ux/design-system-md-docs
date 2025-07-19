@@ -2,7 +2,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer-modal |
-| Summary | undefined |
 | Restrict | .slds-docked-composer |
 |  |  |
 
@@ -10,7 +9,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer_overflow__button |
-| Summary | undefined |
 | Restrict | .slds-docked-composer |
 |  |  |
 
@@ -18,7 +16,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_right-bottom-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -27,7 +24,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_left-bottom-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -36,7 +32,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_right-top-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -45,7 +40,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_left-top-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -54,7 +48,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_bottom-right-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -63,7 +56,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_top-right-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -72,7 +64,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_bottom-left-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -81,7 +72,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_top-left-corner |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -90,7 +80,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_right-bottom |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -99,7 +88,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_right-top |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -108,7 +96,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_right |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -117,7 +104,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_left-bottom |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -126,7 +112,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_left-top |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -135,7 +120,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_left |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -144,7 +128,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_bottom-right |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -153,7 +136,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_bottom-left |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -162,7 +144,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_bottom |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -171,7 +152,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_top-right |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -180,7 +160,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_top-left |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -189,7 +168,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nubbin_top |
-| Summary | undefined |
 | Restrict | .slds-popover, .slds-dropdown |
 | Modifier | true |
 |  |  |
@@ -522,7 +500,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox_vertical |
-| Summary | undefined |
 | Restrict | .slds-listbox |
 | Modifier | true |
 |  |  |
@@ -531,7 +508,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__icon-selected |
-| Summary | undefined |
 | Restrict | .slds-listbox__item svg |
 |  |  |
 
@@ -539,7 +515,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option-meta |
-| Summary | undefined |
 | Restrict | .slds-listbox__option span |
 |  |  |
 
@@ -547,7 +522,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option-text_entity |
-| Summary | undefined |
 | Restrict | .slds-listbox__option span |
 |  |  |
 
@@ -555,7 +529,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-selected |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 | Modifier | true |
 |  |  |
@@ -564,7 +537,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option_has-meta |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 |  |  |
 
@@ -572,7 +544,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option_plain |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 |  |  |
 
@@ -580,7 +551,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option_entity |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 |  |  |
 
@@ -588,7 +558,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-has-focus |
-| Summary | undefined |
 | Restrict | .slds-listbox__option |
 | Modifier | true |
 |  |  |
@@ -613,7 +582,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__option |
-| Summary | undefined |
 | Restrict | .slds-listbox__item > div |
 |  |  |
 
@@ -621,7 +589,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox__item |
-| Summary | undefined |
 | Restrict | .slds-listbox > li |
 |  |  |
 
@@ -629,7 +596,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox_horizontal |
-| Summary | undefined |
 | Restrict | .slds-listbox |
 | Modifier | true |
 |  |  |
@@ -638,7 +604,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox_inline |
-| Summary | undefined |
 | Restrict | .slds-listbox |
 | Modifier | true |
 |  |  |
@@ -647,7 +612,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-listbox |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | .slds-dropdown ul, .slds-dueling-list__options ul, .slds-pill_container ul, .slds-listbox_selection-group ul, .slds-combobox_container ul, .slds-form-element__control ul, .slds-popover__body ul |
 | Variant | true |
@@ -665,7 +629,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer_overflow |
-| Summary | undefined |
 | Restrict | .slds-docked-composer |
 |  |  |
 
@@ -673,7 +636,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer__footer |
-| Summary | undefined |
 | Restrict | .slds-docked-composer footer |
 |  |  |
 
@@ -681,7 +643,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer__input |
-| Summary | undefined |
 | Restrict | .slds-docked-composer textarea |
 |  |  |
 
@@ -689,7 +650,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer__toolbar |
-| Summary | undefined |
 | Restrict | .slds-docked-composer div |
 |  |  |
 
@@ -697,7 +657,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer__lead |
-| Summary | undefined |
 | Restrict | .slds-docked-composer div |
 |  |  |
 
@@ -729,7 +688,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer__body_form |
-| Summary | undefined |
 | Restrict | .slds-docked-composer__body |
 |  |  |
 
@@ -737,7 +695,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer__body |
-| Summary | undefined |
 | Restrict | .slds-docked-composer div |
 |  |  |
 
@@ -745,7 +702,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer__header |
-| Summary | undefined |
 | Restrict | .slds-docked-composer header |
 |  |  |
 
@@ -753,7 +709,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-closed |
-| Summary | undefined |
 | Restrict | .slds-docked-composer |
 | Modifier | true |
 |  |  |
@@ -762,7 +717,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-is-open |
-| Summary | undefined |
 | Restrict | .slds-docked-composer |
 | Modifier | true |
 |  |  |
@@ -771,7 +725,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-has-focus |
-| Summary | undefined |
 | Restrict | .slds-docked-composer |
 | Modifier | true |
 |  |  |
@@ -780,7 +733,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-docked-composer |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | section, div |
 | Variant | true |

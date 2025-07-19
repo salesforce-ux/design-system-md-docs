@@ -20,7 +20,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nav-vertical__action-text |
-| Summary | undefined |
 | Restrict | .slds-nav-vertical__action_overflow span |
 |  |  |
 
@@ -28,7 +27,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nav-vertical__action_overflow |
-| Summary | undefined |
 | Restrict | .slds-nav-vertical__action |
 |  |  |
 
@@ -87,7 +85,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-nav-vertical |
-| Summary | undefined |
 | Support | dev-ready |
 | Restrict | nav, fieldset |
 | Variant | true |

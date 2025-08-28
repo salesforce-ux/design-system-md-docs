@@ -209,7 +209,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-dueling-list__column_responsive |
-| Summary | Changes the layout of the dueling picklist to be responsive |
+| Summary | Changes the layout of the dual listbox to be responsive |
 | Restrict | .slds-dueling-list__column |
 |  |  |
 
@@ -217,7 +217,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-dueling-list__column |
-| Summary | Handles the layout of the dueling picklist |
+| Summary | Handles the layout of the dual listbox |
 | Restrict | .slds-dueling-list div |
 |  |  |
 
@@ -225,7 +225,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-dueling-list |
-| Summary | Initializes a dueling picklist |
+| Summary | Initializes a dual listbox |
 | Support | dev-ready |
 | Restrict | div |
 | Variant | true |

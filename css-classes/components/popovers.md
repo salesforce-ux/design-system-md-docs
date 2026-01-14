@@ -20,7 +20,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-popover_prompt_bottom-right |
-| Summary | Position Prompt bottom right |
+| Summary | Position prompt bottom right |
 | Restrict | .slds-popover_prompt |
 | Modifier | true |
 |  |  |
@@ -29,7 +29,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-popover_prompt_bottom |
-| Summary | Position Prompt bottom center |
+| Summary | Position prompt bottom center |
 | Restrict | .slds-popover_prompt |
 | Modifier | true |
 |  |  |
@@ -38,7 +38,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-popover_prompt_bottom-left |
-| Summary | Position Prompt bottom left |
+| Summary | Position prompt bottom left |
 | Restrict | .slds-popover_prompt |
 | Modifier | true |
 |  |  |
@@ -47,7 +47,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-popover_prompt_top-right |
-| Summary | Position Prompt top right |
+| Summary | Position prompt top right |
 | Restrict | .slds-popover_prompt |
 | Modifier | true |
 |  |  |
@@ -56,7 +56,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-popover_prompt_top |
-| Summary | Position Prompt top center |
+| Summary | Position prompt top center |
 | Restrict | .slds-popover_prompt |
 | Modifier | true |
 |  |  |
@@ -65,7 +65,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-popover_prompt_top-left |
-| Summary | Position Prompt top left |
+| Summary | Position prompt top left |
 | Restrict | .slds-popover_prompt |
 | Modifier | true |
 |  |  |

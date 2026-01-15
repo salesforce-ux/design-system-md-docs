@@ -18,7 +18,7 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-carousel__indicator |
-| Summary | Carousel's tab-list inidicator items |
+| Summary | Carousel's tab-list indicator items |
 | Restrict | .slds-carousel__indicators li |
 |  |  |
 

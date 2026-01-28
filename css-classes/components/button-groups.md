@@ -37,14 +37,6 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-button_last |
-| Summary | If the last button in the group is required to be wrapped in a div, apply this class to the div |
-| Restrict | .slds-button-group div, .slds-button-group-list div |
-|  |  |
-
-
-|  |  |
-|-------|-------|
 | Selector | .slds-button-group |
 | Summary | Creates button group container |
 | Support | dev-ready |

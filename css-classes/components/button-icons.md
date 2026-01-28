@@ -159,54 +159,6 @@
 
 |  |  |
 |-------|-------|
-| Selector | .slds-button_icon-inverse |
-| Summary | Bare button icon with no border or background, to be used on an inversed background |
-| Restrict | .slds-button_icon |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button_icon-border-filled |
-| Summary | Neutral themed button icon - Button icon has a border with a filled background |
-| Restrict | .slds-button_icon |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button_icon-brand |
-| Summary | Branded button icon - Button icon has a filled background with the brand color |
-| Restrict | .slds-button_icon |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button_icon-border-inverse |
-| Summary | Button icon with border and transparent background, to be used on an inversed background |
-| Restrict | .slds-button_icon |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button_icon-border |
-| Summary | Transparent themed button icon - Button icon has a border with a transparent background |
-| Restrict | .slds-button_icon |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button_icon-container |
-| Summary | Default width + height for button icon with containers |
-| Restrict | .slds-button_icon |
-|  |  |
-
-
-|  |  |
-|-------|-------|
 | Selector | .slds-button_icon |
 | Summary | Creates a button that looks like a plain icon |
 | Support | dev-ready |

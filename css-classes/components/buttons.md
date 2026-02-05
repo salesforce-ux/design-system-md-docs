@@ -155,33 +155,6 @@
 |  |  |
 |-------|-------|
 | Selector | .slds-button__icon_x-small |
-| Summary | X-Small size button icon svg |
-| Restrict | .slds-button__icon |
-| Modifier | true |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button__icon_small |
-| Summary | Small size button icon svg |
-| Restrict | .slds-button__icon |
-| Modifier | true |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button__icon_large |
-| Summary | Large size button icon svg |
-| Restrict | .slds-button__icon |
-| Modifier | true |
-|  |  |
-
-
-|  |  |
-|-------|-------|
-| Selector | .slds-button__icon_x-small |
 | Summary | X-Small size for button icon svg |
 | Support | dev-ready |
 | Restrict | .slds-button__icon |

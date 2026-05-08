@@ -8,3 +8,4 @@
 | Restrict | The selector that the class name is allowed to be used on. |
 | Variant | The base level pattern for a component. A variant can be extended to create another variant of that component, for example, a stateful button is a derivative of the base button. |
 | Modifier | A single class that can be added to an HTML element of a component to modify its output. Typically these will be colors, sizing and positioning. |
+| Deprecated | Classes documented under components/deprecated/ are no longer recommended. The Summary names the replacement class when one exists. |
